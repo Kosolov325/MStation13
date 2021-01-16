@@ -1,0 +1,3 @@
+<!-- Most valid html will work in here, excluding images. -->
+
+<iframe src="http://191.232.192.69/motd.html" title="motd"></iframe>

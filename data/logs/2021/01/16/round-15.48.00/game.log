@@ -1,0 +1,127 @@
+2021-01-16 15:48:01 ADMIN: Loading Banlist
+2021-01-16 15:48:01 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 15:48:04 GAME: Saved mode is 'extended'
+2021-01-16 15:48:24 GAME: Hierophant's Arena loaded at 61,110,5
+2021-01-16 15:48:24 GAME: Blood-Drunk Miner (Guidance) loaded at 141,150,5
+2021-01-16 15:48:24 GAME: UFO Crash loaded at 156,149,5
+2021-01-16 15:48:24 GAME: King Goat Boss Ruin loaded at 105,198,5
+2021-01-16 15:48:24 GAME: Rogue's Arena loaded at 194,73,5
+2021-01-16 15:48:24 GAME: Sif's Sword loaded at 110,55,5
+2021-01-16 15:48:24 GAME: Pulsating Tumor loaded at 32,190,5
+2021-01-16 15:48:24 GAME: Elephant Graveyard loaded at 58,188,5
+2021-01-16 15:48:24 GAME: Ruin of Greed loaded at 126,26,5
+2021-01-16 15:48:24 GAME: Seed Vault loaded at 188,187,5
+2021-01-16 15:48:24 GAME: Pulsating Tumor loaded at 109,41,5
+2021-01-16 15:48:25 GAME: Syndicate Lava Base loaded at 110,87,5
+2021-01-16 15:48:26 GAME: Abandoned Teleporter loaded at 215,30,3
+2021-01-16 15:48:26 GAME: Whiteship Dock loaded at 85,188,4
+2021-01-16 15:48:26 GAME: DJ Station loaded at 116,49,6
+2021-01-16 15:48:26 GAME: Detached Teleporter loaded at 134,189,6
+2021-01-16 15:48:26 GAME: Biological Storage Facility loaded at 163,128,4
+2021-01-16 15:48:26 GAME: Disposal Facility 17 loaded at 191,28,7
+2021-01-16 15:48:26 GAME: Ancient Cloning Lab loaded at 63,157,4
+2021-01-16 15:48:26 GAME: Gondoland loaded at 107,150,3
+2021-01-16 15:48:26 GAME: Derelict 4 loaded at 144,86,4
+2021-01-16 15:48:26 GAME: Aesthetic Outpost loaded at 144,173,7
+2021-01-16 15:48:26 GAME: Asteroid 2 loaded at 22,59,3
+2021-01-16 15:48:26 GAME: Roboticst Augmentation Facility loaded at 96,96,4
+2021-01-16 15:48:26 GAME: Asteroid 1 loaded at 58,190,6
+2021-01-16 15:48:27 GAME: DK Excavator 453 loaded at 101,86,6
+2021-01-16 15:48:27 GAME: Asteroid 3 loaded at 62,120,4
+2021-01-16 15:48:27 GAME: Empty Shell loaded at 189,212,7
+2021-01-16 15:48:27 GAME: Monitoring Roid loaded at 28,30,2
+2021-01-16 15:48:27 GAME: Maze Roid loaded at 106,213,2
+2021-01-16 15:48:27 GAME: Mineable Asteroid 5 loaded at 189,209,2
+2021-01-16 15:48:27 GAME: Crab Roid loaded at 219,209,2
+2021-01-16 15:48:27 GAME: Mineable Asteroid 2 loaded at 55,210,2
+2021-01-16 15:48:27 GAME: Dorm Roid loaded at 180,29,2
+2021-01-16 15:48:27 GAME: Mineable Asteroid 4 loaded at 50,27,2
+2021-01-16 15:48:27 GAME: Dead wizard Roid loaded at 206,189,2
+2021-01-16 15:48:27 GAME: Mineable Asteroid 3 loaded at 91,217,2
+2021-01-16 15:48:27 GAME: Mineable Asteroid 1 loaded at 74,223,2
+2021-01-16 15:48:27 GAME: Box Antimatter loaded at 96,49,2
+2021-01-16 15:48:28 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 15:49:46 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-16 15:49:46 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-16 15:49:47 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-16 15:49:47 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-16 15:49:48 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-16 15:49:48 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-16 15:49:49 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-16 15:49:49 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-16 15:49:49 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-16 15:49:49 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-16 15:49:50 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-16 15:49:50 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-16 15:49:50 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-16 15:49:50 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-16 15:49:52 GAME: Hospital Ship loaded at 119,10,9
+2021-01-16 15:59:22 VOTE: Roundtype vote started by server.
+2021-01-16 15:59:24 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 15:59:24 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 15:59:25 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:00:29 VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+2021-01-16 16:00:38 ADMIN: Kosolov325/(Kosolov325) modified Space Station 13's icon from config/title_screens/images/default.png to default.png
+2021-01-16 16:01:16 SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-16 16:01:16 SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-16 16:01:16 SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Fore Maintenance (93, 159, 2))
+2021-01-16 16:01:17 EMOTE: *no key*/(grey baby slime (454)) sways around dizzily. (Xenobiology Lab (176, 93, 2))
+2021-01-16 16:01:18 SAY: *no key*/(ÿMedibot) "There&#39;s always a catch, and I&#39;m the best there is." (CentCom Transport Shuttle Dock (154, 73, 1))
+2021-01-16 16:01:32 EMOTE: *no key*/(monkey (128)) waves her tail. (Virology (158, 100, 2))
+2021-01-16 16:01:33 EMOTE: *no key*/(ÿchicken) flaps its wings viciously. (Holding Facility (104, 73, 1))
+2021-01-16 16:01:35 EMOTE: *no key*/(Poly) turns and flies towards the folder. (Chief Engineer's Office (118, 80, 2))
+2021-01-16 16:01:35 EMOTE: *no key*/(cow) shakes its head. (Holding Facility (104, 73, 1))
+2021-01-16 16:01:39 EMOTE: *no key*/(monkey (128)) jumps! (Virology (158, 100, 2))
+2021-01-16 16:01:39 SAY: *no key*/(Poly) "OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE" FORCED by poly (Chief Engineer's Office (118, 80, 2))
+2021-01-16 16:01:40 EMOTE: *no key*/(Tom) shakes. (Prison Wing (102, 190, 2))
+2021-01-16 16:01:41 EMOTE: *no key*/(monkey (862)) rolls. (Virology (161, 100, 2))
+2021-01-16 16:01:43 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 16:01:43 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:03:36 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 16:03:36 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 16:03:36 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:03:50 EMOTE: *no key*/(grey baby slime (942)) jiggles! (Syndicate Lavaland Experimentation Lab (117, 131, 5))
+2021-01-16 16:03:51 EMOTE: *no key*/(mouse) squeaks. (Aft Maintenance (150, 92, 2))
+2021-01-16 16:03:53 SAY: *no key*/(Renault) "Geckers" FORCED by poly (Captain's Office (124, 130, 2))
+2021-01-16 16:03:59 EMOTE: *no key*/(mouse) squeaks. (Port Maintenance (63, 130, 2))
+2021-01-16 16:04:11 SAY: *no key*/(Tom) "Squeak?" FORCED by poly (Prison Wing (102, 191, 2))
+2021-01-16 16:04:15 EMOTE: *no key*/(Ian) yaps. (Head of Personnel's Office (105, 120, 2))
+2021-01-16 16:04:17 EMOTE: *no key*/(monkey (12)) waves his tail. (Genetics Lab (160, 118, 2))
+2021-01-16 16:04:19 ADMIN: Kosolov325/(Kosolov325) modified Space Station 13's icon from default.png to default.png
+2021-01-16 16:04:24 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 16:04:24 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:05:46 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 16:05:46 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 16:05:46 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:05:50 GAME: Random Event triggering: Minor Space Dust (/datum/round_event/space_dust)
+2021-01-16 16:05:52 EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:05:55 EMOTE: *no key*/(grey baby slime (953)) jiggles! (Syndicate Lavaland Experimentation Lab (124, 132, 5))
+2021-01-16 16:05:56 SAY: *no key*/(Hijikata) "What kind of medbay is this? Everyone&#39;s dropping like flies." (Holding Facility (104, 53, 1))
+2021-01-16 16:05:58 EMOTE: *no key*/(Renault) barks. (Captain's Office (125, 130, 2))
+2021-01-16 16:05:58 SAY: *no key*/(Poly) "The things I&#39;ve seen!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:06:10 EMOTE: *no key*/(Bumbles (120)) curls up on the surface below  (Hydroponics (161, 139, 2))
+2021-01-16 16:06:14 SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Fore Maintenance (133, 156, 2))
+2021-01-16 16:06:18 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:06:20 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 16:06:20 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:10:52 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 16:10:52 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 16:10:52 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 16:10:55 EMOTE: *no key*/(monkey (935)) jumps! (Syndicate Lavaland Experimentation Lab (132, 127, 5))
+2021-01-16 16:11:02 EMOTE: *no key*/(Ian) chases its tail. (Head of Personnel's Office (106, 121, 2))
+2021-01-16 16:11:06 SAY: *no key*/(Nobody's Perfect) "Radar, put a mask on!" (Wizard's Den (24, 75, 1))
+2021-01-16 16:11:08 EMOTE: *no key*/(mouse) squeaks. (Construction Area (103, 100, 2))
+2021-01-16 16:11:08 SAY: *no key*/(Renault) "Ack-Ack" FORCED by poly (Captain's Office (124, 130, 2))
+2021-01-16 16:11:14 SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:11:16 SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:11:16 EMOTE: *no key*/(Ian) yaps. (Head of Personnel's Office (106, 121, 2))
+2021-01-16 16:11:20 EMOTE: *no key*/(Paperwork) snores. (Cargo Bay (77, 122, 2))
+2021-01-16 16:11:32 EMOTE: *no key*/(monkey (360)) waves his tail. (Genetics Lab (161, 119, 2))
+2021-01-16 16:11:32 SAY: *no key*/(Ian) "Woof!" FORCED by poly (Head of Personnel's Office (106, 121, 2))
+2021-01-16 16:11:34 EMOTE: *no key*/(Renault) howls. (Captain's Office (125, 131, 2))
+2021-01-16 16:11:35 ADMIN: Kosolov325/(Kosolov325) modified Space Station 13's icon from default.png to default.png
+2021-01-16 16:11:36 EMOTE: *no key*/(Renault) shakes its head. (Captain's Office (125, 131, 2))
+2021-01-16 16:11:41 SAY: *no key*/(Poly) "The things I&#39;ve seen!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:11:43 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-16 16:11:44 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 16:11:44 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

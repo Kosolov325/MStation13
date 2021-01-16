@@ -1,0 +1,68 @@
+2021-01-16 14:35:13 ADMIN: Loading Banlist
+2021-01-16 14:35:13 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 14:35:25 GAME: Saved mode is 'extended'
+2021-01-16 14:36:08 GAME: Hierophant's Arena loaded at 146,84,5
+2021-01-16 14:36:09 GAME: Blood-Drunk Miner (Guidance) loaded at 164,153,5
+2021-01-16 14:36:09 GAME: UFO Crash loaded at 78,166,5
+2021-01-16 14:36:09 GAME: King Goat Boss Ruin loaded at 25,169,5
+2021-01-16 14:36:09 GAME: Rogue's Arena loaded at 162,33,5
+2021-01-16 14:36:09 GAME: Sif's Sword loaded at 65,87,5
+2021-01-16 14:36:09 GAME: Pulsating Tumor loaded at 141,158,5
+2021-01-16 14:36:09 GAME: Ruin of Greed loaded at 42,183,5
+2021-01-16 14:36:09 GAME: Ruin of Sloth loaded at 36,205,5
+2021-01-16 14:36:10 GAME: Elephant Graveyard loaded at 112,88,5
+2021-01-16 14:36:10 GAME: Ruin of Envy loaded at 83,118,5
+2021-01-16 14:36:10 GAME: Pulsating Tumor loaded at 103,177,5
+2021-01-16 14:36:10 GAME: The Wishgranter Cube loaded at 199,91,5
+2021-01-16 14:36:10 GAME: Abandoned Teleporter loaded at 190,135,7
+2021-01-16 14:36:10 GAME: Whiteship Dock loaded at 114,173,4
+2021-01-16 14:36:10 GAME: Detached Teleporter loaded at 191,58,6
+2021-01-16 14:36:10 GAME: Syndicate Listening Station loaded at 104,43,6
+2021-01-16 14:36:11 GAME: Big Ape loaded at 83,106,4
+2021-01-16 14:36:11 GAME: Disposal Facility 17 loaded at 146,130,7
+2021-01-16 14:36:11 GAME: DJ Station loaded at 100,207,7
+2021-01-16 14:36:11 GAME: A Giant Ball of Paper in Space loaded at 62,148,7
+2021-01-16 14:36:11 GAME: Gondoland loaded at 182,54,7
+2021-01-16 14:36:12 GAME: Crashed Ship loaded at 41,74,7
+2021-01-16 14:36:12 GAME: Asteroid 4 loaded at 182,96,7
+2021-01-16 14:36:12 GAME: NT Medical Ship loaded at 29,32,6
+2021-01-16 14:36:12 GAME: Crashed Clown Ship loaded at 118,35,7
+2021-01-16 14:36:12 GAME: Asteroid 5 loaded at 67,146,4
+2021-01-16 14:36:12 GAME: Asteroid 2 loaded at 147,84,7
+2021-01-16 14:36:12 GAME: Authorship loaded at 109,131,7
+2021-01-16 14:36:12 GAME: Mineable Asteroid 3 loaded at 47,26,2
+2021-01-16 14:36:12 GAME: Monitoring Roid loaded at 175,213,2
+2021-01-16 14:36:12 GAME: Mineable Asteroid 5 loaded at 205,184,2
+2021-01-16 14:36:12 GAME: Mineable Asteroid 1 loaded at 186,197,2
+2021-01-16 14:36:12 GAME: Maze Roid loaded at 202,22,2
+2021-01-16 14:36:12 GAME: Dorm Roid loaded at 85,216,2
+2021-01-16 14:36:12 GAME: Crab Roid loaded at 218,218,2
+2021-01-16 14:36:12 GAME: Dead wizard Roid loaded at 44,215,2
+2021-01-16 14:36:13 GAME: Mineable Asteroid 2 loaded at 143,201,2
+2021-01-16 14:36:13 GAME: Mineable Asteroid 4 loaded at 29,46,2
+2021-01-16 14:36:13 GAME: Box Singulo loaded at 96,49,2
+2021-01-16 14:36:13 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 14:36:27 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 14:36:27 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 14:36:27 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 14:36:36 GAME: *no key*/(Jalen Elderson) Jalen Elderson name changed from Jalen Elderson to Speckles (Unexplored Location (193, 99, 7))
+2021-01-16 14:36:36 GAME: *no key*/(Eliana Ann) Eliana Ann name changed from Eliana Ann to Buttercup (Unexplored Location (136, 44, 7))
+2021-01-16 14:36:36 GAME: *no key*/(Penelope Winton) Penelope Winton name changed from Penelope Winton to Dazzle (Unexplored Location (137, 46, 7))
+2021-01-16 14:36:36 GAME: *no key*/(Bartholomew Peters) Bartholomew Peters name changed from Bartholomew Peters to Mittens (Unexplored Location (139, 43, 7))
+2021-01-16 14:37:34 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 14:37:34 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 14:37:44 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-16 14:37:44 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-16 14:37:45 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-16 14:37:45 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-16 14:37:46 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-16 14:37:46 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-16 14:37:47 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-16 14:37:47 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-16 14:37:47 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-16 14:37:47 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-16 14:37:47 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-16 14:37:48 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-16 14:37:48 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-16 14:37:48 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-16 14:37:53 GAME: Hospital Ship loaded at 119,10,9

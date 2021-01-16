@@ -1,0 +1,50 @@
+2021-01-16 14:42:59 ADMIN: Loading Banlist
+2021-01-16 14:42:59 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 14:43:00 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 14:43:00 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 14:43:00 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 14:43:03 GAME: Saved mode is 'extended'
+2021-01-16 14:43:31 GAME: Hierophant's Arena loaded at 170,94,5
+2021-01-16 14:43:31 GAME: Blood-Drunk Miner (Guidance) loaded at 106,173,5
+2021-01-16 14:43:31 GAME: UFO Crash loaded at 123,86,5
+2021-01-16 14:43:31 GAME: King Goat Boss Ruin loaded at 36,140,5
+2021-01-16 14:43:31 GAME: Rogue's Arena loaded at 206,131,5
+2021-01-16 14:43:31 GAME: Sif's Sword loaded at 194,52,5
+2021-01-16 14:43:31 GAME: Pulsating Tumor loaded at 133,193,5
+2021-01-16 14:43:31 GAME: The Wishgranter Cube loaded at 128,41,5
+2021-01-16 14:43:31 GAME: Ruin of Pride loaded at 213,85,5
+2021-01-16 14:43:31 GAME: Animal Hospital loaded at 150,133,5
+2021-01-16 14:43:31 GAME: Ash Walker Nest loaded at 50,143,5
+2021-01-16 14:43:31 GAME: Pulsating Tumor loaded at 72,156,5
+2021-01-16 14:43:31 GAME: Fountain Hall loaded at 62,194,5
+2021-01-16 14:43:32 GAME: Abandoned Teleporter loaded at 215,64,4
+2021-01-16 14:43:32 GAME: Whiteship Dock loaded at 45,199,6
+2021-01-16 14:43:32 GAME: Survivalist Bunker loaded at 94,118,7
+2021-01-16 14:43:32 GAME: Derelict 6 loaded at 45,36,4
+2021-01-16 14:43:33 GAME: Syndicate Ambush loaded at 137,81,6
+2021-01-16 14:43:33 GAME: Authorship loaded at 24,145,6
+2021-01-16 14:43:33 GAME: DK Excavator 453 loaded at 88,126,4
+2021-01-16 14:43:33 GAME: Detached Teleporter loaded at 65,28,6
+2021-01-16 14:43:33 GAME: Strange Ship loaded at 137,64,3
+2021-01-16 14:43:33 GAME: Empty Shell loaded at 191,213,4
+2021-01-16 14:43:33 GAME: Asteroid 3 loaded at 190,149,7
+2021-01-16 14:43:33 GAME: Space Arcade loaded at 93,74,6
+2021-01-16 14:43:33 GAME: Ancient Cloning Lab loaded at 199,221,6
+2021-01-16 14:43:33 GAME: Space Hermit loaded at 98,156,6
+2021-01-16 14:43:33 GAME: Derelict 1 loaded at 119,110,3
+2021-01-16 14:43:34 GAME: Derelict Tradepost loaded at 114,183,7
+2021-01-16 14:43:34 GAME: Crab Roid loaded at 97,218,2
+2021-01-16 14:43:34 GAME: Dead wizard Roid loaded at 22,183,2
+2021-01-16 14:43:34 GAME: Mineable Asteroid 1 loaded at 47,215,2
+2021-01-16 14:43:34 GAME: Dorm Roid loaded at 107,24,2
+2021-01-16 14:43:34 GAME: Mineable Asteroid 3 loaded at 191,24,2
+2021-01-16 14:43:34 GAME: Mineable Asteroid 5 loaded at 31,42,2
+2021-01-16 14:43:34 GAME: Monitoring Roid loaded at 81,22,2
+2021-01-16 14:43:34 GAME: Mineable Asteroid 4 loaded at 171,204,2
+2021-01-16 14:43:34 GAME: Maze Roid loaded at 140,201,2
+2021-01-16 14:43:34 GAME: Mineable Asteroid 1 loaded at 161,212,2
+2021-01-16 14:43:34 GAME: Box Singulo loaded at 96,49,2
+2021-01-16 14:43:35 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 14:43:54 GAME: *no key*/(Loreto Shafer) Loreto Shafer name changed from Loreto Shafer to Skiddle (Unexplored Location (117, 181, 6))
+2021-01-16 14:44:10 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 14:44:10 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

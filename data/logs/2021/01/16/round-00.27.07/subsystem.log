@@ -1,0 +1,51 @@
+2021-01-16 00:27:08 INIT: Initialized Profiler subsystem within 0 seconds!
+2021-01-16 00:27:10 Fail2Topic: Failed to drop firewall rule. Exit code: 1.
+2021-01-16 00:27:10 INIT: Initialized Fail2Topic subsystem within 2 seconds!
+2021-01-16 00:27:10 INIT: Initialized Title Screen subsystem within 0.1 seconds!
+2021-01-16 00:27:10 INIT: Initialized Database subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Stat Panels subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Blackbox subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Server Tasks subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Input subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Sounds subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Vis contents overlays subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Research subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Events subsystem within 0.1 seconds!
+2021-01-16 00:27:10 INIT: Initialized Jobs subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Quirks subsystem within 0 seconds!
+2021-01-16 00:27:10 INIT: Initialized Ticker subsystem within 0 seconds!
+2021-01-16 00:27:11 INIT: Initialized Instruments subsystem within 0.1 seconds!
+2021-01-16 00:27:40 INIT: Initialized Mapping subsystem within 29.8 seconds!
+2021-01-16 00:27:40 INIT: Initialized Economy subsystem within 0 seconds!
+2021-01-16 00:27:40 INIT: Initialized Networks subsystem within 0 seconds!
+2021-01-16 00:27:40 INIT: Initialized Holodeck subsystem within 0 seconds!
+2021-01-16 00:28:32 INIT: Initialized Atoms subsystem within 51.4 seconds!
+2021-01-16 00:28:32 INIT: Initialized Language subsystem within 0 seconds!
+2021-01-16 00:28:32 INIT: Initialized Machines subsystem within 0.3 seconds!
+2021-01-16 00:28:32 INIT: Initialized Circuit subsystem within 0.1 seconds!
+2021-01-16 00:28:33 INIT: Initialized Atmos Adjacency subsystem within 0.9 seconds!
+2021-01-16 00:28:33 INIT: Initialized Autotransfer Vote subsystem within 0 seconds!
+2021-01-16 00:28:33 INIT: Initialized Chemistry subsystem within 0 seconds!
+2021-01-16 00:28:33 INIT: Initialized Status Effects subsystem within 0 seconds!
+2021-01-16 00:28:33 INIT: Initialized Weather subsystem within 0 seconds!
+2021-01-16 00:28:33 INIT: Initialized Disease subsystem within 0.1 seconds!
+2021-01-16 00:28:33 INIT: Initialized Jukeboxes subsystem within 0 seconds!
+2021-01-16 00:28:33 INIT: Initialized Medals subsystem within 0 seconds!
+2021-01-16 00:28:34 INIT: Initialized Minimaps subsystem within 0.4 seconds!
+2021-01-16 00:28:41 INIT: Initialized Minimum Spawns subsystem within 7.9 seconds!
+2021-01-16 00:28:41 INIT: Initialized Night Shift subsystem within 0 seconds!
+2021-01-16 00:28:41 INIT: Initialized Parallax subsystem within 0 seconds!
+2021-01-16 00:28:41 INIT: Initialized Sun subsystem within 0 seconds!
+2021-01-16 00:28:42 INIT: Initialized Traumas subsystem within 0.5 seconds!
+2021-01-16 00:28:48 INIT: Initialized Atmospherics subsystem within 5.9 seconds!
+2021-01-16 00:28:56 INIT: Initialized Assets subsystem within 8.6 seconds!
+2021-01-16 00:29:02 INIT: Initialized Icon Smoothing subsystem within 5.2 seconds!
+2021-01-16 00:29:03 INIT: Initialized Overlay subsystem within 1.1 seconds!
+2021-01-16 00:29:03 INIT: Initialized XKeyScore subsystem within 0 seconds!
+2021-01-16 00:29:03 INIT: Initialized Sticky Ban subsystem within 0 seconds!
+2021-01-16 00:29:14 INIT: Initialized Lighting subsystem within 10.8 seconds!
+2021-01-16 00:29:24 INIT: Initialized Shuttle subsystem within 10 seconds!
+2021-01-16 00:29:24 INIT: Initialized Minor Mapping subsystem within 0.1 seconds!
+2021-01-16 00:29:24 INIT: Initialized Pathfinder subsystem within 0 seconds!
+2021-01-16 00:29:24 INIT: Initialized Persistence subsystem within 0.2 seconds!
+2021-01-16 00:29:24 INIT: Initialized Chat subsystem within 0 seconds!

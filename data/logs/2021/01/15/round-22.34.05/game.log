@@ -1,0 +1,114 @@
+2021-01-15 22:34:05 ADMIN: Loading Banlist
+2021-01-15 22:34:05 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-15 22:34:07 GAME: Saved mode is 'extended'
+2021-01-15 22:34:18 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-15 22:34:18 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-15 22:34:18 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 22:34:26 GAME: Hierophant's Arena loaded at 130,125,5
+2021-01-15 22:34:26 GAME: Blood-Drunk Miner (Guidance) loaded at 103,199,5
+2021-01-15 22:34:26 GAME: UFO Crash loaded at 203,95,5
+2021-01-15 22:34:26 GAME: King Goat Boss Ruin loaded at 178,121,5
+2021-01-15 22:34:26 GAME: Rogue's Arena loaded at 67,131,5
+2021-01-15 22:34:26 GAME: Sif's Sword loaded at 34,167,5
+2021-01-15 22:34:27 GAME: Pulsating Tumor loaded at 52,131,5
+2021-01-15 22:34:27 GAME: Pulsating Tumor loaded at 54,97,5
+2021-01-15 22:34:27 GAME: Ruin of Envy loaded at 167,63,5
+2021-01-15 22:34:27 GAME: Survival Capsule Ruins loaded at 184,65,5
+2021-01-15 22:34:27 GAME: Ancient Puzzle loaded at 74,202,5
+2021-01-15 22:34:27 GAME: Pulsating Tumor loaded at 196,78,5
+2021-01-15 22:34:27 GAME: Fountain Hall loaded at 81,68,5
+2021-01-15 22:34:28 GAME: Syndicate Lava Base loaded at 148,155,5
+2021-01-15 22:34:28 GAME: Abandoned Teleporter loaded at 55,72,4
+2021-01-15 22:34:28 GAME: Whiteship Dock loaded at 165,181,6
+2021-01-15 22:34:29 GAME: Abandoned Telecommunications Satellite loaded at 125,173,7
+2021-01-15 22:34:29 GAME: Cleric's Den loaded at 82,90,7
+2021-01-15 22:34:29 GAME: DK Excavator 453 loaded at 186,22,3
+2021-01-15 22:34:29 GAME: Asteroid 5 loaded at 104,102,4
+2021-01-15 22:34:29 GAME: Strange Ship loaded at 37,40,4
+2021-01-15 22:34:30 GAME: Survivalist Bunker loaded at 172,92,3
+2021-01-15 22:34:30 GAME: Authorship loaded at 56,119,3
+2021-01-15 22:34:30 GAME: Unnamed Turreted Outpost loaded at 92,35,3
+2021-01-15 22:34:30 GAME: Derelict 5 loaded at 128,175,3
+2021-01-15 22:34:30 GAME: Syndicate Listening Station loaded at 173,130,6
+2021-01-15 22:34:30 GAME: Crashed Ship loaded at 165,182,3
+2021-01-15 22:34:30 GAME: Asteroid 1 loaded at 116,110,3
+2021-01-15 22:34:30 GAME: Ordinary Space Tile loaded at 69,139,3
+2021-01-15 22:34:31 GAME: Big Ape loaded at 60,206,7
+2021-01-15 22:34:31 GAME: Mineable Asteroid 3 loaded at 162,201,2
+2021-01-15 22:34:31 GAME: Mineable Asteroid 2 loaded at 212,205,2
+2021-01-15 22:34:31 GAME: Monitoring Roid loaded at 190,206,2
+2021-01-15 22:34:31 GAME: Mineable Asteroid 1 loaded at 43,220,2
+2021-01-15 22:34:31 GAME: Crab Roid loaded at 32,23,2
+2021-01-15 22:34:31 GAME: Mineable Asteroid 1 loaded at 25,57,2
+2021-01-15 22:34:31 GAME: Mineable Asteroid 1 loaded at 65,218,2
+2021-01-15 22:34:31 GAME: Maze Roid loaded at 82,214,2
+2021-01-15 22:34:31 GAME: Mineable Asteroid 5 loaded at 116,212,2
+2021-01-15 22:34:31 GAME: Dead wizard Roid loaded at 180,22,2
+2021-01-15 22:34:31 GAME: Box SM loaded at 96,49,2
+2021-01-15 22:34:32 GAME: Public Mining Base loaded at 1,1,5
+2021-01-15 22:35:58 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-15 22:35:58 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-15 22:35:59 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-15 22:36:00 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-15 22:36:00 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-15 22:36:01 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-15 22:36:02 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-15 22:36:02 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-15 22:36:02 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-15 22:36:03 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-15 22:36:03 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-15 22:36:03 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-15 22:36:03 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-15 22:36:03 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-15 22:36:06 GAME: Hospital Ship loaded at 119,10,9
+2021-01-15 22:36:06 VOTE: Roundtype vote started by server.
+2021-01-15 22:37:07 VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+2021-01-15 22:37:32 SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-15 22:37:32 SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-15 22:37:32 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-15 22:37:32 SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Fore Maintenance (93, 159, 2))
+2021-01-15 22:37:34 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (118, 83, 2))
+2021-01-15 22:37:36 EMOTE: *no key*/(grey baby slime (976)) sways around dizzily. (Syndicate Lavaland Experimentation Lab (155, 199, 5))
+2021-01-15 22:37:36 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-15 22:37:38 SAY: *no key*/(ÿMedibot) "Radar, put a mask on!" (Authorship (60, 123, 3))
+2021-01-15 22:37:40 EMOTE: *no key*/(mouse) squeaks. (Morgue Maintenance (163, 125, 2))
+2021-01-15 22:37:44 EMOTE: *no key*/(Poly) turns and flies towards the high-capacity power cell+. (Chief Engineer's Office (117, 82, 2))
+2021-01-15 22:37:52 SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (116, 81, 2))
+2021-01-15 22:37:54 SAY: *no key*/(Poly) "I have lived many lives!" FORCED by poly (Chief Engineer's Office (116, 82, 2))
+2021-01-15 22:37:56 EMOTE: *no key*/(grey baby slime (862)) vibrates! (Xenobiology Lab (176, 92, 2))
+2021-01-15 22:37:56 EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (116, 83, 2))
+2021-01-15 22:37:58 EMOTE: *no key*/(mouse) squeaks. (Port Maintenance (62, 133, 2))
+2021-01-15 22:38:00 EMOTE: *no key*/(monkey (63)) waves her tail. (Genetics Lab (160, 120, 2))
+2021-01-15 22:38:04 EMOTE: *no key*/(monkey (91)) scratches. (Virology (161, 101, 2))
+2021-01-15 22:38:04 EMOTE: *no key*/(monkey (702)) waves his tail. (Virology (160, 101, 2))
+2021-01-15 22:38:05 EMOTE: *no key*/(Bumbles (224)) looks around for a flower nap  (Hydroponics (161, 133, 2))
+2021-01-15 22:38:07 SAY: *no key*/(ÿMedibot) "I knew it, I should&#39;ve been a plastic surgeon." (CentCom Transport Shuttle Dock (155, 73, 1))
+2021-01-15 22:38:11 SAY: *no key*/(Poly) "I have lived many lives!" FORCED by poly (Chief Engineer's Office (117, 82, 2))
+2021-01-15 22:38:13 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (117, 83, 2))
+2021-01-15 22:38:13 EMOTE: *no key*/(Paperwork) looks around sleepily. (Cargo Bay (79, 121, 2))
+2021-01-15 22:38:15 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (117, 83, 2))
+2021-01-15 22:38:18 EMOTE: *no key*/(grey baby slime (862)) vibrates! (Xenobiology Lab (175, 94, 2))
+2021-01-15 22:38:19 SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Port Maintenance (64, 124, 2))
+2021-01-15 22:38:19 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (117, 83, 2))
+2021-01-15 22:38:21 EMOTE: *no key*/(raving crab) clacks. (Unexplored Location (40, 32, 2))
+2021-01-15 22:38:25 SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Aft Maintenance (130, 104, 2))
+2021-01-15 22:38:27 SAY: *no key*/(ÿMedibot) "Why are we still here? Just to suffer?" (CentCom Transport Shuttle Dock (154, 73, 1))
+2021-01-15 22:38:31 SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (117, 82, 2))
+2021-01-15 22:38:32 EMOTE: *no key*/(Runtime) stretches out for a belly rub. (Chief Medical Officer's Office (157, 108, 2))
+2021-01-15 22:38:33 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (117, 83, 2))
+2021-01-15 22:38:33 EMOTE: *no key*/(Tom) runs in a circle. (Prison Wing (104, 190, 2))
+2021-01-15 22:38:37 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (117, 83, 2))
+2021-01-15 22:38:39 SAY: *no key*/(Poly) "I have lived many lives!" FORCED by poly (Chief Engineer's Office (117, 83, 2))
+2021-01-15 22:38:40 SAY: *no key*/(grey baby slime (976)) "Slime friends..." (Syndicate Lavaland Experimentation Lab (156, 199, 5))
+2021-01-15 22:38:43 SAY: *no key*/(mouse) "SQUEAK!" FORCED by poly (Fore Maintenance (106, 154, 2))
+2021-01-15 22:38:46 EMOTE: *no key*/(monkey (116)) waves his tail. (Genetics Lab (160, 119, 2))
+2021-01-15 22:38:47 EMOTE: *no key*/(raving crab) clacks. (Unexplored Location (40, 32, 2))
+2021-01-15 22:38:47 EMOTE: *no key*/(Bumbles (224)) stops resting. (Hydroponics (161, 133, 2))
+2021-01-15 22:38:49 SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 22:38:51 SAY: *no key*/(ÿMedibot) "There&#39;s always a catch, and I&#39;m the best there is." (Authorship (60, 123, 3))
+2021-01-15 22:38:54 EMOTE: *no key*/(grey baby slime (889)) sways around dizzily. (Syndicate Lavaland Experimentation Lab (160, 199, 5))
+2021-01-15 22:38:55 SAY: *no key*/(mouse) "SQUEAK!" FORCED by poly (Port Quarter Maintenance (98, 77, 2))
+2021-01-15 22:38:57 SAY: *no key*/(Renault) "Geckers" FORCED by poly (Captain's Office (120, 128, 2))
+2021-01-15 22:38:57 SAY: *no key*/(Syndicate Hospitality Drone) "I knew it, I should&#39;ve been a plastic surgeon." (Holding Facility (99, 83, 1))
+2021-01-15 22:38:59 SAY: *no key*/(Poly) "OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 22:39:01 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (115, 83, 2))

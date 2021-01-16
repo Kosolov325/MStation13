@@ -1,0 +1,81 @@
+2021-01-16 14:46:45 ADMIN: Loading Banlist
+2021-01-16 14:46:45 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 14:46:46 GAME: Saved mode is 'extended'
+2021-01-16 14:47:06 GAME: Hierophant's Arena loaded at 112,183,5
+2021-01-16 14:47:06 GAME: Blood-Drunk Miner (Guidance) loaded at 197,94,5
+2021-01-16 14:47:06 GAME: UFO Crash loaded at 45,159,5
+2021-01-16 14:47:06 GAME: King Goat Boss Ruin loaded at 136,120,5
+2021-01-16 14:47:06 GAME: Rogue's Arena loaded at 84,155,5
+2021-01-16 14:47:06 GAME: Sif's Sword loaded at 171,192,5
+2021-01-16 14:47:06 GAME: Pulsating Tumor loaded at 196,174,5
+2021-01-16 14:47:06 GAME: Ruin of Pride loaded at 56,198,5
+2021-01-16 14:47:06 GAME: Fountain Hall loaded at 118,112,5
+2021-01-16 14:47:06 GAME: Ripley loaded at 210,93,5
+2021-01-16 14:47:06 GAME: Pulsating Tumor loaded at 123,29,5
+2021-01-16 14:47:06 GAME: Ash Walker Nest loaded at 209,71,5
+2021-01-16 14:47:06 GAME: Ruin of Wrath loaded at 83,107,5
+2021-01-16 14:47:07 GAME: Abandoned Teleporter loaded at 65,25,4
+2021-01-16 14:47:07 GAME: Whiteship Dock loaded at 51,99,4
+2021-01-16 14:47:07 GAME: Ancient Space Station loaded at 160,214,3
+2021-01-16 14:47:07 GAME: Space Hermit loaded at 60,81,3
+2021-01-16 14:47:07 GAME: Detached Teleporter loaded at 144,167,7
+2021-01-16 14:47:07 GAME: Biological Storage Facility loaded at 150,114,4
+2021-01-16 14:47:07 GAME: Aesthetic Outpost loaded at 87,191,7
+2021-01-16 14:47:07 GAME: Cleric's Den loaded at 148,95,7
+2021-01-16 14:47:07 GAME: Empty Shell loaded at 37,126,4
+2021-01-16 14:47:07 GAME: Abductor Replication Lab loaded at 149,152,4
+2021-01-16 14:47:07 GAME: Big Ape loaded at 216,95,3
+2021-01-16 14:47:07 GAME: Derelict 5 loaded at 102,23,4
+2021-01-16 14:47:07 GAME: Asteroid 5 loaded at 78,42,6
+2021-01-16 14:47:08 GAME: Crashed Ship loaded at 145,26,3
+2021-01-16 14:47:08 GAME: DK Excavator 453 loaded at 53,168,3
+2021-01-16 14:47:08 GAME: NT Medical Ship loaded at 50,174,6
+2021-01-16 14:47:08 GAME: Mineable Asteroid 5 loaded at 90,212,2
+2021-01-16 14:47:08 GAME: Dead wizard Roid loaded at 203,204,2
+2021-01-16 14:47:08 GAME: Crab Roid loaded at 50,204,2
+2021-01-16 14:47:08 GAME: Mineable Asteroid 4 loaded at 48,22,2
+2021-01-16 14:47:08 GAME: Maze Roid loaded at 25,194,2
+2021-01-16 14:47:08 GAME: Mineable Asteroid 3 loaded at 50,43,2
+2021-01-16 14:47:08 GAME: Mineable Asteroid 1 loaded at 223,50,2
+2021-01-16 14:47:08 GAME: Dorm Roid loaded at 122,217,2
+2021-01-16 14:47:08 GAME: Monitoring Roid loaded at 204,183,2
+2021-01-16 14:47:08 GAME: Mineable Asteroid 2 loaded at 25,37,2
+2021-01-16 14:47:08 GAME: Box Antimatter loaded at 96,49,2
+2021-01-16 14:47:09 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 14:47:26 GAME: [ÿAPLU "Miner"] ÿAPLU "Miner" created. (Lavaland Wastes (212, 95, 5))
+2021-01-16 14:47:26 GAME: [ÿAPLU "Miner"] 217-D Heavy Plasma Cutter initialized. (Lavaland Wastes (212, 95, 5))
+2021-01-16 14:47:26 GAME: [ÿAPLU "Miner"] The hydraulic clamp initialized. (Lavaland Wastes (212, 95, 5))
+2021-01-16 14:47:26 GAME: [ÿAPLU "Miner"] The exosuit mining scanner initialized. (Lavaland Wastes (212, 95, 5))
+2021-01-16 14:47:27 GAME: *no key*/(Amaya Thomas) Amaya Thomas name changed from Amaya Thomas to Joy (Unexplored Location (79, 106, 3))
+2021-01-16 14:48:31 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-16 14:48:31 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-16 14:48:32 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-16 14:48:32 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-16 14:48:33 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-16 14:48:33 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-16 14:48:34 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-16 14:48:34 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-16 14:48:34 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-16 14:48:34 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-16 14:48:35 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-16 14:48:35 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-16 14:48:35 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-16 14:48:35 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-16 14:48:37 GAME: Hospital Ship loaded at 119,10,9
+2021-01-16 15:05:10 VOTE: Roundtype vote started by server.
+2021-01-16 15:05:40 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 15:05:40 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 15:05:40 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 15:06:11 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 15:06:11 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 15:06:47 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 15:06:47 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 15:06:47 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 15:06:49 VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+2021-01-16 15:07:35 SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-16 15:07:35 SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-16 15:07:35 SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Fore Maintenance (93, 159, 2))
+2021-01-16 15:07:37 EMOTE: *no key*/(grey baby slime (963)) vibrates! (Xenobiology Lab (176, 93, 2))
+2021-01-16 15:07:37 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (119, 82, 2))
+2021-01-16 15:07:41 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 15:07:41 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

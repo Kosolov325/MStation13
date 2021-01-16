@@ -1,0 +1,113 @@
+2021-01-16 01:27:47 ADMIN: Loading Banlist
+2021-01-16 01:27:47 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 01:27:49 GAME: Saved mode is 'extended'
+2021-01-16 01:28:12 GAME: Hierophant's Arena loaded at 92,128,5
+2021-01-16 01:28:12 GAME: Blood-Drunk Miner (Guidance) loaded at 90,182,5
+2021-01-16 01:28:12 GAME: UFO Crash loaded at 157,192,5
+2021-01-16 01:28:12 GAME: King Goat Boss Ruin loaded at 56,185,5
+2021-01-16 01:28:12 GAME: Rogue's Arena loaded at 168,47,5
+2021-01-16 01:28:12 GAME: Sif's Sword loaded at 70,93,5
+2021-01-16 01:28:12 GAME: Pulsating Tumor loaded at 110,85,5
+2021-01-16 01:28:12 GAME: Ruin of Greed loaded at 62,128,5
+2021-01-16 01:28:13 GAME: Animal Hospital loaded at 155,126,5
+2021-01-16 01:28:13 GAME: Dark Wizard Altar loaded at 149,86,5
+2021-01-16 01:28:13 GAME: Makeshift Shelter loaded at 124,137,5
+2021-01-16 01:28:13 GAME: Dead God loaded at 189,71,5
+2021-01-16 01:28:13 GAME: Dark Wizard Altar loaded at 103,106,5
+2021-01-16 01:28:13 GAME: Biodome Clown Planet loaded at 105,49,5
+2021-01-16 01:28:13 GAME: Biodome Winter loaded at 189,126,5
+2021-01-16 01:28:13 GAME: Ruin of Envy loaded at 72,63,5
+2021-01-16 01:28:13 GAME: Abandoned Teleporter loaded at 147,115,7
+2021-01-16 01:28:13 GAME: Whiteship Dock loaded at 164,191,7
+2021-01-16 01:28:14 GAME: Abandoned Telecommunications Satellite loaded at 83,76,6
+2021-01-16 01:28:14 GAME: DJ Station loaded at 89,167,3
+2021-01-16 01:28:14 GAME: Asteroid 1 loaded at 63,86,6
+2021-01-16 01:28:14 GAME: Space Hermit loaded at 142,91,6
+2021-01-16 01:28:14 GAME: Dinner for Two loaded at 39,145,6
+2021-01-16 01:28:14 GAME: Space Arcade loaded at 60,140,6
+2021-01-16 01:28:15 GAME: Kosmicheskaya Stantsiya 13 loaded at 50,58,7
+2021-01-16 01:28:15 GAME: Aesthetic Outpost loaded at 130,177,7
+2021-01-16 01:28:15 GAME: Derelict 3 loaded at 139,201,6
+2021-01-16 01:28:15 GAME: Syndicate Ambush loaded at 99,33,3
+2021-01-16 01:28:15 GAME: Authorship loaded at 30,221,4
+2021-01-16 01:28:16 GAME: The Twin-Nexus Hotel loaded at 75,62,4
+2021-01-16 01:28:16 GAME: Derelict 5 loaded at 165,29,7
+2021-01-16 01:28:16 GAME: Derelict 6 loaded at 142,155,6
+2021-01-16 01:28:16 GAME: Mineable Asteroid 1 loaded at 174,31,2
+2021-01-16 01:28:16 GAME: Mineable Asteroid 3 loaded at 80,213,2
+2021-01-16 01:28:16 GAME: Maze Roid loaded at 54,25,2
+2021-01-16 01:28:16 GAME: Monitoring Roid loaded at 208,207,2
+2021-01-16 01:28:16 GAME: Mineable Asteroid 5 loaded at 209,29,2
+2021-01-16 01:28:16 GAME: Mineable Asteroid 1 loaded at 223,155,2
+2021-01-16 01:28:16 GAME: Mineable Asteroid 4 loaded at 168,216,2
+2021-01-16 01:28:16 GAME: Dorm Roid loaded at 131,217,2
+2021-01-16 01:28:16 GAME: Mineable Asteroid 2 loaded at 52,212,2
+2021-01-16 01:28:16 GAME: Crab Roid loaded at 53,45,2
+2021-01-16 01:28:17 GAME: Box SM loaded at 96,49,2
+2021-01-16 01:28:17 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 01:28:36 GAME: *no key*/(Jaxon Harris) Jaxon Harris name changed from Jaxon Harris to Zippy (Unexplored Location (161, 116, 6))
+2021-01-16 01:28:54 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 01:28:54 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 01:28:54 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 01:30:01 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-16 01:30:01 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-16 01:30:02 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-16 01:30:03 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-16 01:30:04 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-16 01:30:04 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-16 01:30:06 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-16 01:30:06 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-16 01:30:06 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-16 01:30:06 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-16 01:30:07 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-16 01:30:07 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-16 01:30:07 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-16 01:30:07 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-16 01:30:10 GAME: Hospital Ship loaded at 119,10,9
+2021-01-16 01:30:11 GAME: Syndicate Fighter loaded at 149,10,9
+2021-01-16 01:30:11 GAME: Small Freighter loaded at 154,10,9
+2021-01-16 01:30:13 GAME: Pirate Cutter loaded at 175,10,9
+2021-01-16 01:30:13 GAME: Syndicate Dropship loaded at 197,10,9
+2021-01-16 01:30:14 VOTE: Roundtype vote started by server.
+2021-01-16 01:31:07 ADMIN: Kosolov325 has started the game.
+2021-01-16 01:31:08 VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+2021-01-16 01:31:09 GAME: *no key*/(Kosolov325) *no key*/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 01:31:09 ACCESS: Mob Login: Kosolov325/(Grandpa Goodman) was assigned to a /mob/living/carbon/human
+2021-01-16 01:31:09 GAME: Kosolov325/(Grandpa Goodman) Client Kosolov325/(Grandpa Goodman) has taken ownership of mob (/mob/living/carbon/human) (Kitchen (150, 134, 2))
+2021-01-16 01:31:11 SAY: *no key*/(ÿMedibot) "There&#39;s always a catch, and I&#39;m the best there is." (CentCom Transport Shuttle Dock (155, 73, 1))
+2021-01-16 01:31:12 SAY: *no key*/(Poly) "OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE" FORCED by poly (Chief Engineer's Office (118, 83, 2))
+2021-01-16 01:31:14 SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-16 01:31:14 SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-16 01:31:14 EMOTE: *no key*/(Runtime) grooms its fur. (Chief Medical Officer's Office (159, 109, 2))
+2021-01-16 01:31:14 SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Fore Maintenance (93, 159, 2))
+2021-01-16 01:31:18 SAY: *no key*/(Accidents Happen) "There&#39;s always a catch, and I&#39;m the best there is." (Hotel Staff Room (108, 93, 4))
+2021-01-16 01:31:24 SAY: *no key*/(ÿMedibot) "Why are we still here? Just to suffer?" (CentCom Transport Shuttle Dock (154, 73, 1))
+2021-01-16 01:31:26 SAY: *no key*/(mouse) "Squeak?" FORCED by poly (Port Bow Maintenance (63, 159, 2))
+2021-01-16 01:31:26 EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (117, 80, 2))
+2021-01-16 01:31:26 SAY: *no key*/(Hattori) "Radar, put a mask on!" (Holding Facility (108, 45, 1))
+2021-01-16 01:31:28 EMOTE: *no key*/(Pegwing) turns and flies towards the pirate's bedsheet. (Pirate Cutter (150, 71, 3))
+2021-01-16 01:31:32 SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (117, 80, 2))
+2021-01-16 01:31:34 EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (116, 80, 2))
+2021-01-16 01:31:38 EMOTE: *no key*/(Poly) bawks! (Chief Engineer's Office (116, 80, 2))
+2021-01-16 01:31:40 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (116, 80, 2))
+2021-01-16 01:31:40 SAY: *no key*/(cow) "moo?" FORCED by poly (Holding Facility (103, 73, 1))
+2021-01-16 01:31:42 SAY: *no key*/(Accidents Happen) "There&#39;s always a catch, and I&#39;m the best there is." (Hotel Staff Room (108, 93, 4))
+2021-01-16 01:31:44 SAY: *no key*/(Hijikata) "What kind of medbay is this? Everyone&#39;s dropping like flies." (Holding Facility (104, 53, 1))
+2021-01-16 01:31:52 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (116, 79, 2))
+2021-01-16 01:32:01 GAME: *no key*/(Stephen Stamos) Stephen Stamos name changed from Stephen Stamos to Clueless (Lavaland Labor Camp (114, 79, 5))
+2021-01-16 01:32:01 GAME: *no key*/(Netta Fleming) Netta Fleming name changed from Netta Fleming to Ziggy Yoyo (Lavaland Labor Camp (116, 79, 5))
+2021-01-16 01:32:01 GAME: *no key*/(Porter Buzzard) Porter Buzzard name changed from Porter Buzzard to Dazzle (Lavaland Labor Camp (117, 79, 5))
+2021-01-16 01:32:01 GAME: *no key*/(Albert Zalack) Albert Zalack name changed from Albert Zalack to Antsy (Lavaland Labor Camp (122, 79, 5))
+2021-01-16 01:32:02 GAME: *no key*/(Marlowe Baer) Marlowe Baer name changed from Marlowe Baer to Honker (Lavaland Labor Camp (123, 79, 5))
+2021-01-16 01:32:02 GAME: *no key*/(Theodore Sloan) Theodore Sloan name changed from Theodore Sloan to Clownsky (Lavaland Labor Camp (126, 79, 5))
+2021-01-16 01:32:02 EMOTE: *no key*/(Runtime) wags its tail. (Chief Medical Officer's Office (158, 109, 2))
+2021-01-16 01:32:04 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (115, 79, 2))
+2021-01-16 01:32:08 SAY: *no key*/(Poly) "Poly wanna cracker!" FORCED by poly (Chief Engineer's Office (115, 79, 2))
+2021-01-16 01:32:10 SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (115, 79, 2))
+2021-01-16 01:32:10 SAY: *no key*/(Hijikata) "I knew it, I should&#39;ve been a plastic surgeon." (Holding Facility (104, 53, 1))
+2021-01-16 01:32:14 EMOTE: *no key*/(Bumbles (930)) buzzes. (Hydroponics (162, 133, 2))
+2021-01-16 01:32:16 EMOTE: *no key*/(mouse) shakes. (Port Quarter Maintenance (82, 86, 2))
+2021-01-16 01:32:16 SAY: *no key*/(ÿMedibot) "Why are we still here? Just to suffer?" (CentCom Transport Shuttle Dock (154, 73, 1))
+2021-01-16 01:32:20 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (115, 79, 2))
+2021-01-16 01:32:23 ACCESS: Logout: Kosolov325/(Grandpa Goodman)
+2021-01-16 01:32:23 GAME: Kosolov325[DC]/(Grandpa Goodman) Kosolov325[DC]/(Grandpa Goodman) is no longer owning mob Grandpa Goodman(/mob/living/carbon/human) (Kitchen (150, 133, 2))

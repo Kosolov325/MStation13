@@ -1,0 +1,74 @@
+2021-01-15 22:29:52 ADMIN: Loading Banlist
+2021-01-15 22:29:52 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-15 22:30:16 GAME: Saved mode is 'extended'
+2021-01-15 22:30:22 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-15 22:30:22 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-15 22:30:22 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 22:30:44 GAME: Hierophant's Arena loaded at 187,61,5
+2021-01-15 22:30:44 GAME: Blood-Drunk Miner (Guidance) loaded at 77,86,5
+2021-01-15 22:30:44 GAME: UFO Crash loaded at 45,199,5
+2021-01-15 22:30:44 GAME: King Goat Boss Ruin loaded at 206,124,5
+2021-01-15 22:30:44 GAME: Rogue's Arena loaded at 210,180,5
+2021-01-15 22:30:44 GAME: Sif's Sword loaded at 161,121,5
+2021-01-15 22:30:44 GAME: Pulsating Tumor loaded at 106,156,5
+2021-01-15 22:30:45 GAME: Dead God loaded at 147,96,5
+2021-01-15 22:30:45 GAME: Survival Capsule Ruins loaded at 134,24,5
+2021-01-15 22:30:45 GAME: Summoning Ritual loaded at 55,148,5
+2021-01-15 22:30:45 GAME: Crashed Shuttle loaded at 185,159,5
+2021-01-15 22:30:45 GAME: Ruin of Sloth loaded at 33,174,5
+2021-01-15 22:30:45 GAME: Survival Capsule Ruins loaded at 131,169,5
+2021-01-15 22:30:45 GAME: Ancient Puzzle loaded at 158,218,5
+2021-01-15 22:30:45 GAME: Biodome Beach loaded at 98,173,5
+2021-01-15 22:30:45 GAME: Abandoned Teleporter loaded at 114,60,6
+2021-01-15 22:30:45 GAME: Whiteship Dock loaded at 145,194,3
+2021-01-15 22:30:45 GAME: Survivalist Bunker loaded at 92,79,6
+2021-01-15 22:30:46 GAME: Disposal Facility 17 loaded at 29,45,6
+2021-01-15 22:30:46 GAME: Space Arcade loaded at 155,94,3
+2021-01-15 22:30:46 GAME: NT Medical Ship loaded at 55,115,7
+2021-01-15 22:30:46 GAME: Derelict 4 loaded at 184,56,3
+2021-01-15 22:30:46 GAME: Asteroid 4 loaded at 130,127,7
+2021-01-15 22:30:46 GAME: Crashed Ship loaded at 123,139,6
+2021-01-15 22:30:46 GAME: Abductor Replication Lab loaded at 96,212,7
+2021-01-15 22:30:46 GAME: Ancient Space Station loaded at 65,114,3
+2021-01-15 22:30:46 GAME: Dinner for Two loaded at 188,134,7
+2021-01-15 22:30:46 GAME: Gondoland loaded at 123,149,7
+2021-01-15 22:30:46 GAME: Derelict 5 loaded at 27,32,3
+2021-01-15 22:30:46 GAME: Asteroid 1 loaded at 33,134,7
+2021-01-15 22:30:47 GAME: A Giant Ball of Paper in Space loaded at 23,85,6
+2021-01-15 22:30:47 GAME: Mineable Asteroid 3 loaded at 181,199,2
+2021-01-15 22:30:47 GAME: Maze Roid loaded at 142,208,2
+2021-01-15 22:30:47 GAME: Mineable Asteroid 4 loaded at 201,191,2
+2021-01-15 22:30:47 GAME: Dorm Roid loaded at 179,25,2
+2021-01-15 22:30:47 GAME: Mineable Asteroid 2 loaded at 212,210,2
+2021-01-15 22:30:47 GAME: Monitoring Roid loaded at 43,209,2
+2021-01-15 22:30:47 GAME: Dead wizard Roid loaded at 47,41,2
+2021-01-15 22:30:47 GAME: Mineable Asteroid 5 loaded at 23,28,2
+2021-01-15 22:30:47 GAME: Crab Roid loaded at 210,30,2
+2021-01-15 22:30:47 GAME: Mineable Asteroid 1 loaded at 96,210,2
+2021-01-15 22:30:47 GAME: Box P.A.C.M.A.N loaded at 96,49,2
+2021-01-15 22:30:47 GAME: Public Mining Base loaded at 1,1,5
+2021-01-15 22:31:08 GAME: *no key*/(Reed Berkheimer) Reed Berkheimer name changed from Reed Berkheimer to Toodles Sharperton (Unexplored Location (141, 130, 7))
+2021-01-15 22:31:24 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-15 22:31:24 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 22:32:09 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-15 22:32:09 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-15 22:32:10 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-15 22:32:11 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-15 22:32:11 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-15 22:32:12 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-15 22:32:13 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-15 22:32:13 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-15 22:32:13 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-15 22:32:13 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-15 22:32:13 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-15 22:32:14 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-15 22:32:14 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-15 22:32:14 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-15 22:32:16 GAME: Hospital Ship loaded at 119,10,9
+2021-01-15 22:32:21 VOTE: Roundtype vote started by server.
+2021-01-15 22:32:21 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-15 22:32:21 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-15 22:32:21 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 22:33:22 VOTE: <b>Roundtype Vote</b><b>Vote Result: Inconclusive - No Votes!</b>
+2021-01-15 22:33:27 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-15 22:33:27 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

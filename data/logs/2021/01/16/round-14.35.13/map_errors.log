@@ -1,0 +1,12 @@
+2021-01-16 14:37:13 There are 146 active turfs at roundstart caused by a difference of the air between the adjacent turfs. You can see its coordinates using "Mapping -> Show roundstart AT list" verb (debug verbs required).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 69, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 67, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 70, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 68, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 66, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 71, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 65, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (90, 72, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (91, 65, 2).
+2021-01-16 14:37:13 build_pipeline(): /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden added to a pipenet while still having one. (pipes leading to the same spot stacking in one turf) Nearby: (91, 72, 2).
+2021-01-16 14:37:13 build_pipeline(): further messages about pipenets will be suppressed

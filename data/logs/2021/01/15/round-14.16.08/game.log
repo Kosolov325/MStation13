@@ -1,0 +1,139 @@
+2021-01-15 14:16:08 ADMIN: Loading Banlist
+2021-01-15 14:16:08 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-15 14:16:11 GAME: Saved mode is 'extended'
+2021-01-15 14:16:29 GAME: Hierophant's Arena loaded at 187,192,5
+2021-01-15 14:16:29 GAME: Blood-Drunk Miner (Guidance) loaded at 216,62,5
+2021-01-15 14:16:29 GAME: UFO Crash loaded at 65,70,5
+2021-01-15 14:16:29 GAME: King Goat Boss Ruin loaded at 43,165,5
+2021-01-15 14:16:29 GAME: Rogue's Arena loaded at 72,182,5
+2021-01-15 14:16:29 GAME: Sif's Sword loaded at 169,30,5
+2021-01-15 14:16:29 GAME: Pulsating Tumor loaded at 182,63,5
+2021-01-15 14:16:29 GAME: Ruin of Envy loaded at 206,157,5
+2021-01-15 14:16:29 GAME: Ancient Puzzle loaded at 140,118,5
+2021-01-15 14:16:29 GAME: Ruin of Pride loaded at 134,191,5
+2021-01-15 14:16:29 GAME: Summoning Ritual loaded at 163,81,5
+2021-01-15 14:16:29 GAME: Ruin of Gluttony loaded at 160,181,5
+2021-01-15 14:16:29 GAME: Seed Vault loaded at 129,140,5
+2021-01-15 14:16:29 GAME: Dead God loaded at 67,102,5
+2021-01-15 14:16:29 GAME: Survival Capsule Ruins loaded at 31,185,5
+2021-01-15 14:16:29 GAME: Abandoned Teleporter loaded at 34,60,3
+2021-01-15 14:16:29 GAME: Whiteship Dock loaded at 137,68,3
+2021-01-15 14:16:29 GAME: Strange Ship loaded at 133,47,7
+2021-01-15 14:16:30 GAME: Biological Storage Facility loaded at 202,122,3
+2021-01-15 14:16:30 GAME: Salvation loaded at 30,105,6
+2021-01-15 14:16:30 GAME: Derelict Tradepost loaded at 186,151,4
+2021-01-15 14:16:30 GAME: A Giant Ball of Paper in Space loaded at 34,168,6
+2021-01-15 14:16:38 GAME: Big Ape loaded at 105,77,3
+2021-01-15 14:16:38 GAME: DJ Station loaded at 73,189,4
+2021-01-15 14:16:38 GAME: Derelict 6 loaded at 70,177,3
+2021-01-15 14:16:38 GAME: Asteroid 3 loaded at 28,73,3
+2021-01-15 14:16:38 GAME: NT Medical Ship loaded at 76,92,6
+2021-01-15 14:16:38 GAME: Space Hermit loaded at 41,26,6
+2021-01-15 14:16:38 GAME: Syndicate Listening Station loaded at 67,139,7
+2021-01-15 14:16:38 GAME: Crashed Clown Ship loaded at 107,153,7
+2021-01-15 14:16:38 GAME: Feline-Human Combination Den loaded at 103,64,4
+2021-01-15 14:16:38 GAME: Monitoring Roid loaded at 30,41,2
+2021-01-15 14:16:38 GAME: Mineable Asteroid 3 loaded at 137,214,2
+2021-01-15 14:16:38 GAME: Dorm Roid loaded at 110,217,2
+2021-01-15 14:16:38 GAME: Maze Roid loaded at 165,208,2
+2021-01-15 14:16:38 GAME: Mineable Asteroid 1 loaded at 92,220,2
+2021-01-15 14:16:38 GAME: Mineable Asteroid 1 loaded at 31,190,2
+2021-01-15 14:16:38 GAME: Mineable Asteroid 1 loaded at 174,39,2
+2021-01-15 14:16:38 GAME: Dead wizard Roid loaded at 47,210,2
+2021-01-15 14:16:38 GAME: Mineable Asteroid 1 loaded at 42,29,2
+2021-01-15 14:16:38 GAME: Mineable Asteroid 2 loaded at 211,196,2
+2021-01-15 14:16:38 GAME: Box SM loaded at 96,49,2
+2021-01-15 14:16:38 GAME: Public Mining Base loaded at 1,1,5
+2021-01-15 14:16:42 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-15 14:16:42 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-15 14:16:42 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 14:17:03 GAME: *no key*/(Chandler Jyllian) Chandler Jyllian name changed from Chandler Jyllian to Redshirt McBeat (Unexplored Location (60, 51, 6))
+2021-01-15 14:17:04 GAME: *no key*/(Woodrow Ann) Woodrow Ann name changed from Woodrow Ann to Jazzy Bella (Unexplored Location (125, 162, 7))
+2021-01-15 14:17:04 GAME: *no key*/(Emmanuel Whiteman) Emmanuel Whiteman name changed from Emmanuel Whiteman to Beebee (Unexplored Location (126, 164, 7))
+2021-01-15 14:17:04 GAME: *no key*/(Payton Digson) Payton Digson name changed from Payton Digson to Joy (Unexplored Location (128, 161, 7))
+2021-01-15 14:18:10 GAME: Backup Shuttle loaded at 10,10,9
+2021-01-15 14:18:10 GAME: assault pod (Default) loaded at 18,10,9
+2021-01-15 14:18:11 GAME: basic syndicate infiltrator loaded at 25,10,9
+2021-01-15 14:18:11 GAME: fancy transport ferry loaded at 42,10,9
+2021-01-15 14:18:12 GAME: Box Station Emergency Shuttle loaded at 55,10,9
+2021-01-15 14:18:12 GAME: cargo ferry (Box) loaded at 66,10,9
+2021-01-15 14:18:13 GAME: escape pod (Default) loaded at 73,10,9
+2021-01-15 14:18:13 GAME: escape pod (Default) loaded at 76,10,9
+2021-01-15 14:18:13 GAME: auxilliary base (Default) loaded at 79,10,9
+2021-01-15 14:18:14 GAME: arrival shuttle (Box) loaded at 88,10,9
+2021-01-15 14:18:14 GAME: mining shuttle (Box) loaded at 103,10,9
+2021-01-15 14:18:14 GAME: labour shuttle (Box) loaded at 108,10,9
+2021-01-15 14:18:14 GAME: escape pod (Default) loaded at 113,10,9
+2021-01-15 14:18:14 GAME: escape pod (Default) loaded at 116,10,9
+2021-01-15 14:18:16 GAME: Hospital Ship loaded at 119,10,9
+2021-01-15 14:18:17 VOTE: Roundtype vote started by server.
+2021-01-15 14:18:56 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-15 14:18:56 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 14:19:07 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-15 14:19:07 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-15 14:19:07 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 14:19:29 VOTE: <b>Roundtype Vote</b>
+2021-01-15 14:19:29 <b>secret:</b> ???
+2021-01-15 14:19:29 <b>extended:</b> ???
+2021-01-15 14:19:29 <b>Vote Result: ???</b>
+2021-01-15 14:19:29 ADMIN: Gamemode has been voted for and switched to: extended.
+2021-01-15 14:19:29 VOTE: Mode tiers vote started by server.
+2021-01-15 14:19:48 VOTE: 
+2021-01-15 14:19:48 <b>wizard:</b> 1
+2021-01-15 14:19:55 SAY: *no key*/(Prison Ofitser) "Engaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-15 14:19:55 SAY: *no key*/(Prison Ofitser) "Disengaging patrol mode." (Labor Camp Security (23, 36, 5))
+2021-01-15 14:19:55 SAY: *no key*/(Officer Beepsky) "Engaging patrol mode." (Fore Maintenance (93, 159, 2))
+2021-01-15 14:19:56 EMOTE: *no key*/(Ian) chases its tail! (Head of Personnel's Office (105, 121, 2))
+2021-01-15 14:19:57 SAY: *no key*/(Hijikata) "Delicious!" (Holding Facility (104, 53, 1))
+2021-01-15 14:20:03 EMOTE: *no key*/(Bumbles (558)) buzzes softly  (Hydroponics (161, 134, 2))
+2021-01-15 14:20:03 EMOTE: *no key*/(ÿchicken) clucks. (Holding Facility (102, 73, 1))
+2021-01-15 14:20:05 SAY: *no key*/(Hattori) "I knew it, I should&#39;ve been a plastic surgeon." (Holding Facility (108, 45, 1))
+2021-01-15 14:20:10 EMOTE: *no key*/(monkey (384)) waves his tail. (Virology (161, 101, 2))
+2021-01-15 14:20:13 SAY: *no key*/(mouse) "SQUEAK!" FORCED by poly (Aft Maintenance (159, 104, 2))
+2021-01-15 14:20:20 EMOTE: *no key*/(monkey (314)) scratches. (Genetics Lab (161, 116, 2))
+2021-01-15 14:20:22 EMOTE: *no key*/(monkey (802)) waves his tail. (Genetics Lab (160, 119, 2))
+2021-01-15 14:20:25 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (117, 83, 2))
+2021-01-15 14:20:27 SAY: *no key*/(Runtime) "HSSSSS" FORCED by poly (Chief Medical Officer's Office (159, 110, 2))
+2021-01-15 14:20:29 EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (117, 83, 2))
+2021-01-15 14:20:31 EMOTE: *no key*/(Bumbles (558)) buzzes. (Hydroponics (161, 134, 2))
+2021-01-15 14:20:33 SAY: *no key*/(Nobody's Perfect) "What kind of medbay is this? Everyone&#39;s dropping like flies." (Wizard's Den (24, 75, 1))
+2021-01-15 14:20:37 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:20:39 EMOTE: *no key*/(monkey (802)) jumps! (Genetics Lab (161, 117, 2))
+2021-01-15 14:20:41 SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:20:47 EMOTE: *no key*/(mouse) runs in a circle. (Port Quarter Maintenance (102, 95, 2))
+2021-01-15 14:20:47 EMOTE: *no key*/(Runtime) shivers. (Chief Medical Officer's Office (157, 110, 2))
+2021-01-15 14:20:55 SAY: *no key*/(mouse) "Squeak!" FORCED by poly (Port Quarter Maintenance (95, 93, 2))
+2021-01-15 14:20:57 EMOTE: *no key*/(monkey (616)) scratches. (Genetics Lab (161, 118, 2))
+2021-01-15 14:20:57 EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:20:59 EMOTE: *no key*/(monkey (769)) rolls. (Virology (158, 101, 2))
+2021-01-15 14:21:02 GAME: *no key*/(Kosolov325) *no key*/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-15 14:21:02 ACCESS: Mob Login: Kosolov325/(Grandpa Goodman) was assigned to a /mob/living/carbon/human
+2021-01-15 14:21:02 GAME: Kosolov325/(Grandpa Goodman) Client Kosolov325/(Grandpa Goodman) has taken ownership of mob (/mob/living/carbon/human) (start area (11, 174, 1))
+2021-01-15 14:21:04 EMOTE: *no key*/(mouse) shakes. (Port Quarter Maintenance (103, 95, 2))
+2021-01-15 14:21:10 EMOTE: *no key*/(space cat) wags its tail. (Kitty Den (110, 80, 4))
+2021-01-15 14:21:10 SAY: *no key*/(Poly) "I have lived many lives!" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:12 EMOTE: *no key*/(grey baby slime (623)) sways around dizzily. (Xenobiology Lab (175, 93, 2))
+2021-01-15 14:21:12 EMOTE: *no key*/(mouse) runs in a circle. (Electrical Maintenance (180, 152, 2))
+2021-01-15 14:21:12 SAY: *no key*/(Runtime) "Meow!" FORCED by poly (Chief Medical Officer's Office (157, 109, 2))
+2021-01-15 14:21:14 EMOTE: *no key*/(monkey (314)) scratches. (Genetics Lab (161, 119, 2))
+2021-01-15 14:21:17 EMOTE: *no key*/(mouse) shakes. (Port Quarter Maintenance (95, 93, 2))
+2021-01-15 14:21:17 EMOTE: *no key*/(mouse) runs in a circle. (Port Quarter Maintenance (102, 95, 2))
+2021-01-15 14:21:19 SAY: *no key*/(Poly) "Wire the solars, you lazy bums!" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:20 EMOTE: *no key*/(space cat) stops resting. (Kitty Den (110, 80, 4))
+2021-01-15 14:21:20 EMOTE: *no key*/(grey baby slime (216)) vibrates! (Xenobiology Lab (167, 93, 2))
+2021-01-15 14:21:21 EMOTE: *no key*/(mouse) squeaks. (Port Quarter Maintenance (95, 83, 2))
+2021-01-15 14:21:21 SAY: *no key*/(Poly) "OH GOD ITS ABOUT TO DELAMINATE CALL THE SHUTTLE" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:23 EMOTE: *no key*/(Bumbles (558)) makes a loud buzz. (Hydroponics (161, 134, 2))
+2021-01-15 14:21:35 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:37 EMOTE: *no key*/(Paperwork) snores. (Cargo Bay (82, 123, 2))
+2021-01-15 14:21:39 SAY: *no key*/(mouse) "Squeak!" FORCED by poly (Port Quarter Maintenance (95, 92, 2))
+2021-01-15 14:21:39 EMOTE: *no key*/(ÿchicken) flaps its wings viciously. (Holding Facility (103, 73, 1))
+2021-01-15 14:21:41 SAY: *no key*/(Poly) "WHO TOOK THE DAMN HARDSUITS?" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:43 EMOTE: *no key*/(Poly) squawks. (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:47 EMOTE: *no key*/(grey baby slime (216)) sways around dizzily. (Xenobiology Lab (166, 92, 2))
+2021-01-15 14:21:55 EMOTE: *no key*/(Poly) flutters its wings. (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:55 SAY: *no key*/(Hattori) "Delicious!" (Holding Facility (108, 45, 1))
+2021-01-15 14:21:57 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:21:59 SAY: *no key*/(Poly) "Check the crystal, you chucklefucks!" FORCED by poly (Chief Engineer's Office (115, 83, 2))
+2021-01-15 14:22:02 ACCESS: Logout: Kosolov325/(Grandpa Goodman)
+2021-01-15 14:22:02 GAME: Kosolov325[DC]/(Grandpa Goodman) Kosolov325[DC]/(Grandpa Goodman) is no longer owning mob Grandpa Goodman(/mob/living/carbon/human) (Central Primary Hallway (104, 141, 2))

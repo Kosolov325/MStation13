@@ -1,0 +1,49 @@
+2021-01-16 13:45:57 ADMIN: Loading Banlist
+2021-01-16 13:45:57 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 13:48:04 GAME: Saved mode is 'extended'
+2021-01-16 13:48:33 GAME: Hierophant's Arena loaded at 139,99,5
+2021-01-16 13:48:33 GAME: Blood-Drunk Miner (Guidance) loaded at 142,154,5
+2021-01-16 13:48:33 GAME: UFO Crash loaded at 89,72,5
+2021-01-16 13:48:34 GAME: King Goat Boss Ruin loaded at 210,88,5
+2021-01-16 13:48:34 GAME: Rogue's Arena loaded at 26,171,5
+2021-01-16 13:48:34 GAME: Sif's Sword loaded at 56,159,5
+2021-01-16 13:48:34 GAME: Pulsating Tumor loaded at 87,54,5
+2021-01-16 13:48:34 GAME: Ash Walker Nest loaded at 60,133,5
+2021-01-16 13:48:34 GAME: Free Golem Ship loaded at 181,75,5
+2021-01-16 13:48:34 GAME: Ruin of Envy loaded at 74,83,5
+2021-01-16 13:48:34 GAME: Pulsating Tumor loaded at 196,40,5
+2021-01-16 13:48:34 GAME: Abandoned Teleporter loaded at 134,179,4
+2021-01-16 13:48:34 GAME: Whiteship Dock loaded at 75,188,4
+2021-01-16 13:48:34 GAME: Gondoland loaded at 189,185,3
+2021-01-16 13:48:34 GAME: Derelict 1 loaded at 150,106,6
+2021-01-16 13:48:35 GAME: Waylaid Buses loaded at 184,106,3
+2021-01-16 13:48:35 GAME: Dinner for Two loaded at 27,45,7
+2021-01-16 13:48:35 GAME: Cleric's Den loaded at 69,169,4
+2021-01-16 13:48:35 GAME: Detached Teleporter loaded at 40,88,3
+2021-01-16 13:48:35 GAME: Unnamed Turreted Outpost loaded at 41,119,6
+2021-01-16 13:48:35 GAME: Asteroid 4 loaded at 44,25,4
+2021-01-16 13:48:35 GAME: Asteroid 1 loaded at 179,173,6
+2021-01-16 13:48:35 GAME: Space Hermit loaded at 28,171,3
+2021-01-16 13:48:35 GAME: Feline-Human Combination Den loaded at 194,51,7
+2021-01-16 13:48:35 GAME: Hilbert Research Facility loaded at 137,95,3
+2021-01-16 13:48:36 GAME: Space Arcade loaded at 119,147,6
+2021-01-16 13:48:36 GAME: Aesthetic Outpost loaded at 182,157,6
+2021-01-16 13:48:36 GAME: Mineable Asteroid 3 loaded at 45,201,2
+2021-01-16 13:48:36 GAME: Maze Roid loaded at 166,210,2
+2021-01-16 13:48:36 GAME: Dead wizard Roid loaded at 200,189,2
+2021-01-16 13:48:36 GAME: Crab Roid loaded at 173,32,2
+2021-01-16 13:48:36 GAME: Mineable Asteroid 1 loaded at 207,28,2
+2021-01-16 13:48:36 GAME: Mineable Asteroid 5 loaded at 31,37,2
+2021-01-16 13:48:36 GAME: Monitoring Roid loaded at 23,71,2
+2021-01-16 13:48:36 GAME: Mineable Asteroid 1 loaded at 37,23,2
+2021-01-16 13:48:36 GAME: Mineable Asteroid 4 loaded at 131,217,2
+2021-01-16 13:48:36 GAME: Dorm Roid loaded at 206,217,2
+2021-01-16 13:48:36 GAME: Box Singulo loaded at 96,49,2
+2021-01-16 13:48:37 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 13:48:43 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 13:48:43 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 13:48:43 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 13:49:02 GAME: *no key*/(Cesar Mueller) Cesar Mueller name changed from Cesar Mueller to Pancake (Unexplored Location (55, 28, 4))
+2021-01-16 13:49:03 GAME: *no key*/(Wayne Knapenberger) Wayne Knapenberger name changed from Wayne Knapenberger to Lala (Unexplored Location (47, 196, 3))
+2021-01-16 13:50:23 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 13:50:23 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

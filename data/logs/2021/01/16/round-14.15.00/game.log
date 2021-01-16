@@ -1,0 +1,61 @@
+2021-01-16 14:15:00 ADMIN: Loading Banlist
+2021-01-16 14:15:00 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 14:15:03 GAME: Saved mode is 'extended'
+2021-01-16 14:15:41 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 14:15:41 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 14:15:41 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 14:15:45 GAME: Hierophant's Arena loaded at 79,113,5
+2021-01-16 14:15:45 GAME: Blood-Drunk Miner (Guidance) loaded at 215,38,5
+2021-01-16 14:15:45 GAME: UFO Crash loaded at 162,82,5
+2021-01-16 14:15:45 GAME: King Goat Boss Ruin loaded at 102,77,5
+2021-01-16 14:15:45 GAME: Rogue's Arena loaded at 195,137,5
+2021-01-16 14:15:45 GAME: Sif's Sword loaded at 192,161,5
+2021-01-16 14:15:45 GAME: Pulsating Tumor loaded at 67,195,5
+2021-01-16 14:15:45 GAME: Ruin of Gluttony loaded at 105,113,5
+2021-01-16 14:15:45 GAME: Survival Capsule Ruins loaded at 74,148,5
+2021-01-16 14:15:45 GAME: Free Golem Ship loaded at 142,44,5
+2021-01-16 14:15:45 GAME: Pulsating Tumor loaded at 154,200,5
+2021-01-16 14:15:45 GAME: Ripley loaded at 80,183,5
+2021-01-16 14:15:45 GAME: Pulsating Tumor loaded at 118,182,5
+2021-01-16 14:15:45 GAME: Pulsating Tumor loaded at 136,102,5
+2021-01-16 14:15:45 GAME: Abandoned Teleporter loaded at 185,112,3
+2021-01-16 14:15:45 GAME: Whiteship Dock loaded at 83,154,6
+2021-01-16 14:15:46 GAME: Crashed Ship loaded at 79,127,7
+2021-01-16 14:15:46 GAME: Gondoland loaded at 31,191,6
+2021-01-16 14:15:46 GAME: Survivalist Bunker loaded at 134,142,3
+2021-01-16 14:15:46 GAME: Derelict 1 loaded at 190,158,4
+2021-01-16 14:15:46 GAME: Roboticst Augmentation Facility loaded at 130,104,6
+2021-01-16 14:15:46 GAME: CF Corsair loaded at 41,63,4
+2021-01-16 14:15:46 GAME: Derelict 4 loaded at 98,198,6
+2021-01-16 14:15:46 GAME: Unnamed Turreted Outpost loaded at 96,30,3
+2021-01-16 14:15:46 GAME: Ancient Space Station loaded at 119,166,4
+2021-01-16 14:15:47 GAME: NT Medical Ship loaded at 115,208,3
+2021-01-16 14:15:47 GAME: Kosmicheskaya Stantsiya 13 loaded at 46,48,3
+2021-01-16 14:15:47 GAME: Asteroid 4 loaded at 66,56,7
+2021-01-16 14:15:48 GAME: Syndicate Ambush loaded at 133,27,3
+2021-01-16 14:15:48 GAME: A Giant Ball of Paper in Space loaded at 116,175,4
+2021-01-16 14:15:48 GAME: Maze Roid loaded at 34,198,2
+2021-01-16 14:15:48 GAME: Monitoring Roid loaded at 90,210,2
+2021-01-16 14:15:48 GAME: Dorm Roid loaded at 196,30,2
+2021-01-16 14:15:48 GAME: Mineable Asteroid 2 loaded at 172,23,2
+2021-01-16 14:15:48 GAME: Mineable Asteroid 5 loaded at 53,212,2
+2021-01-16 14:15:48 GAME: Mineable Asteroid 1 loaded at 215,33,2
+2021-01-16 14:15:48 GAME: Mineable Asteroid 3 loaded at 186,210,2
+2021-01-16 14:15:48 GAME: Mineable Asteroid 4 loaded at 144,212,2
+2021-01-16 14:15:48 GAME: Crab Roid loaded at 50,35,2
+2021-01-16 14:15:48 GAME: Mineable Asteroid 1 loaded at 23,185,2
+2021-01-16 14:15:48 GAME: Box TEG loaded at 96,49,2
+2021-01-16 14:15:49 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 14:15:57 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 14:15:57 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 14:15:57 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 14:15:57 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 14:15:57 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 14:16:10 GAME: [ÿAPLU "Miner"] ÿAPLU "Miner" created. (Lavaland Wastes (82, 185, 5))
+2021-01-16 14:16:10 GAME: [ÿAPLU "Miner"] The exosuit drill initialized. (Lavaland Wastes (82, 185, 5))
+2021-01-16 14:16:10 GAME: [ÿAPLU "Miner"] The hydraulic clamp initialized. (Lavaland Wastes (82, 185, 5))
+2021-01-16 14:16:10 GAME: [ÿAPLU "Miner"] The exosuit mining scanner initialized. (Lavaland Wastes (82, 185, 5))
+2021-01-16 14:16:12 GAME: [ÿAPLU "Ripley"] ÿAPLU "Ripley" created. (Mech Transport (48, 72, 4))
+2021-01-16 14:16:13 GAME: *no key*/(Shannon Moore) Shannon Moore name changed from Shannon Moore to Honkerbelle (Unexplored Location (77, 59, 7))
+2021-01-16 14:16:49 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 14:16:49 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

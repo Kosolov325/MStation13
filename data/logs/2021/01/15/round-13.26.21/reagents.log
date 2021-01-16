@@ -1,0 +1,15 @@
+2021-01-15 13:31:41 MOB ADD: on_mob_add(): Kosolov325/(Grandpa Goodman) at Medbay Treatment Center (143, 114, 2) - 10 of /datum/reagent/medicine/epinephrine with 1 purity
+2021-01-15 13:31:41 MOB ADD: on_mob_add(): Kosolov325/(Grandpa Goodman) at Medbay Treatment Center (143, 114, 2) - 3 of /datum/reagent/preservahyde with 1 purity
+2021-01-15 13:31:41 MOB ADD: on_mob_add(): Kosolov325/(Grandpa Goodman) at Medbay Treatment Center (143, 114, 2) - 2 of /datum/reagent/medicine/coagulant with 1 purity
+2021-01-15 13:31:41 TRANSFER: FROM The epinephrine medipen ([0x2012d92]) (0,0,0) TO Grandpa Goodman ([mob_188]) (143,114,2) - Kosolov325/(Grandpa Goodman): trans_to with arguments Grandpa Goodman 15 1 1 0 and reagents Epinephrine - 10, Preservahyde - 3 and Sanguirite - 2
+2021-01-15 13:32:21 MOB DELETE: on_mob_delete: Kosolov325/(Grandpa Goodman) at Medbay Central (146, 118, 2) - /datum/reagent/medicine/coagulant
+2021-01-15 13:32:41 MOB DELETE: on_mob_delete: Kosolov325/(Grandpa Goodman) at Medbay Central (146, 118, 2) - /datum/reagent/preservahyde
+2021-01-15 13:35:02 MOB DELETE: on_mob_delete: Kosolov325/(Grandpa Goodman) at Medbay Central (135, 117, 2) - /datum/reagent/medicine/epinephrine
+2021-01-15 13:35:27 MOB ADD: on_mob_add(): Kosolov325/(Grandpa Goodman) at Medbay Central (134, 116, 2) - 10 of /datum/reagent/medicine/bicaridine with 1 purity
+2021-01-15 13:35:27 TRANSFER: FROM The red hypovial (bicaridine) ([0x200f518]) (0,0,0) TO Grandpa Goodman ([mob_188]) (134,116,2) - Kosolov325/(Grandpa Goodman): trans_to with arguments Grandpa Goodman 10 1 1 0 and reagents Bicaridine - 10
+2021-01-15 13:35:30 MOB ADD: on_merge(): Kosolov325/(Grandpa Goodman) at Medbay Central (134, 116, 2) - 19.2 of /datum/reagent/medicine/bicaridine with 1 purity
+2021-01-15 13:35:30 TRANSFER: FROM The red hypovial (bicaridine) ([0x200f518]) (0,0,0) TO Grandpa Goodman ([mob_188]) (134,116,2) - Kosolov325/(Grandpa Goodman): trans_to with arguments Grandpa Goodman 10 1 1 0 and reagents Bicaridine - 10
+2021-01-15 13:36:47 MOB ADD: on_mob_add(): Kosolov325/(Grandpa Goodman) at Auxiliary Tool Storage (92, 135, 2) - 1 of /datum/reagent/determination with 1 purity
+2021-01-15 13:36:47 MOB ADD: on_merge(): Kosolov325/(Grandpa Goodman) at Auxiliary Tool Storage (92, 135, 2) - 3.5 of /datum/reagent/determination with 1 purity
+2021-01-15 13:37:02 MOB DELETE: on_mob_delete: Kosolov325/(Grandpa Goodman) at Auxiliary Tool Storage (92, 136, 2) - /datum/reagent/medicine/bicaridine
+2021-01-15 13:37:02 MOB DELETE: on_mob_delete: Kosolov325/(Grandpa Goodman) at Auxiliary Tool Storage (92, 136, 2) - /datum/reagent/determination

@@ -1,0 +1,55 @@
+2021-01-16 00:08:50 ADMIN: Loading Banlist
+2021-01-16 00:08:50 ADMIN: Errored custom_items_whitelist line: JayEhh|ALL|ALL|/obj/item/custom/ceb_soap=1 - Path/number for item missing or invalid.
+2021-01-16 00:09:13 GAME: Saved mode is 'extended'
+2021-01-16 00:09:17 ACCESS: Logout: Kosolov325
+2021-01-16 00:09:17 ACCESS: Login: Kosolov325 from 127.0.0.1-540227776 || BYOND v513.1528
+2021-01-16 00:09:17 ACCESS: Mob Login: Kosolov325/(Kosolov325) was assigned to a /mob/dead/new_player
+2021-01-16 00:09:17 GAME: Kosolov325/(Kosolov325) Client Kosolov325/(Kosolov325) has taken ownership of mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))
+2021-01-16 00:09:52 GAME: Hierophant's Arena loaded at 137,183,5
+2021-01-16 00:09:53 GAME: Blood-Drunk Miner (Guidance) loaded at 176,125,5
+2021-01-16 00:09:53 GAME: UFO Crash loaded at 118,23,5
+2021-01-16 00:09:53 GAME: King Goat Boss Ruin loaded at 197,76,5
+2021-01-16 00:09:53 GAME: Rogue's Arena loaded at 88,127,5
+2021-01-16 00:09:54 GAME: Sif's Sword loaded at 113,51,5
+2021-01-16 00:09:54 GAME: Pulsating Tumor loaded at 109,201,5
+2021-01-16 00:09:55 GAME: Syndicate Lava Base loaded at 118,126,5
+2021-01-16 00:09:55 GAME: Seed Vault loaded at 48,203,5
+2021-01-16 00:09:56 GAME: Dead God loaded at 190,152,5
+2021-01-16 00:09:56 GAME: Ruin of Greed loaded at 56,62,5
+2021-01-16 00:09:56 GAME: Dark Wizard Altar loaded at 145,48,5
+2021-01-16 00:09:56 GAME: Ancient Puzzle loaded at 136,93,5
+2021-01-16 00:09:56 GAME: Summoning Ritual loaded at 117,99,5
+2021-01-16 00:09:57 GAME: Abandoned Teleporter loaded at 173,177,3
+2021-01-16 00:09:57 GAME: Whiteship Dock loaded at 190,29,4
+2021-01-16 00:09:57 GAME: Authorship loaded at 202,147,7
+2021-01-16 00:09:57 GAME: Asteroid 2 loaded at 32,109,7
+2021-01-16 00:09:57 GAME: Crashed Clown Ship loaded at 97,36,6
+2021-01-16 00:09:58 GAME: The Twin-Nexus Hotel loaded at 53,127,6
+2021-01-16 00:09:58 GAME: Derelict 5 loaded at 32,186,3
+2021-01-16 00:09:59 GAME: Big Ape loaded at 86,25,3
+2021-01-16 00:09:59 GAME: Hilbert Research Facility loaded at 190,202,7
+2021-01-16 00:09:59 GAME: Salvation loaded at 187,124,4
+2021-01-16 00:09:59 GAME: Ancient Space Station loaded at 207,58,7
+2021-01-16 00:10:00 GAME: Space Diner loaded at 51,143,7
+2021-01-16 00:10:00 GAME: Abductor Replication Lab loaded at 188,119,7
+2021-01-16 00:10:00 GAME: Roboticst Augmentation Facility loaded at 195,177,6
+2021-01-16 00:10:00 GAME: Asteroid 4 loaded at 41,187,7
+2021-01-16 00:10:00 GAME: Empty Shell loaded at 108,50,4
+2021-01-16 00:10:01 GAME: Mineable Asteroid 5 loaded at 31,199,2
+2021-01-16 00:10:01 GAME: Maze Roid loaded at 207,185,2
+2021-01-16 00:10:01 GAME: Dorm Roid loaded at 63,207,2
+2021-01-16 00:10:01 GAME: Crab Roid loaded at 73,25,2
+2021-01-16 00:10:01 GAME: Mineable Asteroid 2 loaded at 49,29,2
+2021-01-16 00:10:01 GAME: Mineable Asteroid 4 loaded at 145,213,2
+2021-01-16 00:10:01 GAME: Mineable Asteroid 1 loaded at 220,34,2
+2021-01-16 00:10:02 GAME: Monitoring Roid loaded at 206,212,2
+2021-01-16 00:10:02 GAME: Mineable Asteroid 3 loaded at 168,213,2
+2021-01-16 00:10:02 GAME: Dead wizard Roid loaded at 114,212,2
+2021-01-16 00:10:03 GAME: Box SM loaded at 96,49,2
+2021-01-16 00:10:04 GAME: Public Mining Base loaded at 1,1,5
+2021-01-16 00:10:27 GAME: *no key*/(Paxton Cowart) Paxton Cowart name changed from Paxton Cowart to Doodles (Unexplored Location (115, 45, 6))
+2021-01-16 00:10:27 GAME: *no key*/(Randal Ward) Randal Ward name changed from Randal Ward to Honker (Unexplored Location (116, 47, 6))
+2021-01-16 00:10:27 GAME: *no key*/(Alec Harris) Alec Harris name changed from Alec Harris to Duckie (Unexplored Location (118, 44, 6))
+2021-01-16 00:10:29 GAME: *no key*/(Lacy Kimple) Lacy Kimple name changed from Lacy Kimple to Cluesky (Unexplored Location (52, 190, 7))
+2021-01-16 00:11:30 ACCESS: Logout: Kosolov325/(Kosolov325)
+2021-01-16 00:11:30 GAME: Kosolov325[DC]/(Kosolov325) Kosolov325[DC]/(Kosolov325) is no longer owning mob Kosolov325(/mob/dead/new_player) (start area (11, 174, 1))

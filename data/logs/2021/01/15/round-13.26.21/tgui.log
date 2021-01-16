@@ -1,0 +1,25 @@
+2021-01-15 13:35:02 kosolov325 (as Grandpa Goodman at 135,117,2)
+2021-01-15 13:35:02 Using: /obj/machinery/vending/medical [0x2007e49]
+2021-01-15 13:35:02 new Vending fancy 1
+2021-01-15 13:35:02 kosolov325 in tgui-window-1/initialize
+2021-01-15 13:35:02 Using: /obj/machinery/vending/medical [0x2007e49]
+2021-01-15 13:35:05 kosolov325 (as Grandpa Goodman at 135,117,2) in tgui-window-1
+2021-01-15 13:35:05 Using: /obj/machinery/vending/medical [0x2007e49]
+2021-01-15 13:35:05 Action: vend {"ref":"[0x2100d4b2]"}
+2021-01-15 13:35:06 kosolov325 in tgui-window-1/close (suspending)
+2021-01-15 13:35:06 kosolov325 in tgui-window-1/close (suspending)
+2021-01-15 13:35:10 kosolov325 (as Grandpa Goodman at 135,116,2)
+2021-01-15 13:35:10 Using: /obj/machinery/vending/medical [0x2007e49]
+2021-01-15 13:35:10 new Vending fancy 1
+2021-01-15 13:35:14 kosolov325 (as Grandpa Goodman at 135,116,2) in tgui-window-1
+2021-01-15 13:35:14 Using: /obj/machinery/vending/medical [0x2007e49]
+2021-01-15 13:35:14 Action: vend {"ref":"[0x2100d4c6]"}
+2021-01-15 13:35:15 kosolov325 in tgui-window-1/close (suspending)
+2021-01-15 13:35:15 kosolov325 in tgui-window-1/close (suspending)
+2021-01-15 13:35:33 kosolov325 (as Grandpa Goodman at 135,116,2)
+2021-01-15 13:35:33 Using: /obj/machinery/vending/medical [0x2007e49]
+2021-01-15 13:35:33 new Vending fancy 1
+2021-01-15 13:35:37 kosolov325 in tgui-window-1/close (suspending)
+2021-01-15 13:35:37 kosolov325 in tgui-window-1/close (suspending)
+2021-01-15 13:50:40 kosolov325 in browseroutput/initialize
+2021-01-15 13:53:01 kosolov325 in browseroutput/initialize
