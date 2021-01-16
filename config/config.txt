@@ -258,13 +258,13 @@ CHECK_RANDOMIZER
 DISCORDURL https://discord.gg/JYguuGaYkk
 
 ## Wiki address
-# WIKIURL https://katlin.dog/citadel-wiki
+WIKIURL https://katlin.dog/citadel-wiki
 
 ## Rules address
-RULESURL tgstation13.org/wiki/rules
+#RULESURL tgstation13.org/wiki/rules
 
 ## Github address
-GITHUBURL https://github.com/nuke-ops/Nostration-13
+#GITHUBURL https://github.com/nuke-ops/Nostration-13
 
 ## Round specific stats address
 ## Link to round specific parsed logs; IE statbus. It is appended with the RoundID automatically by ticker/Reboot()
@@ -283,7 +283,7 @@ GITHUBURL https://github.com/nuke-ops/Nostration-13
 # GITHUBREPOID 280067036
 
 ## Ban appeals URL - usually for a forum or wherever people should go to contact your admins.
-# BANAPPEALS https://discord.gg/bxgeRPq
+BANAPPEALS https://discord.gg/JYguuGaYkk
 
 ## System command that invokes youtube-dl, used by Play Internet Sound.
 ## You can install youtube-dl with
