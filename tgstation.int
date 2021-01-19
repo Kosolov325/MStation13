@@ -1,8 +1,8 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1610829009
-DIR: code code\__DEFINES code\__DEFINES\sandcode code\controllers code\controllers\configuration code\controllers\configuration\entries code\controllers\subsystem code\datums code\datums\components code\datums\diseases code\datums\diseases\advance code\datums\diseases\advance\symptoms code\datums\mood_events code\datums\skills code\datums\skills\modifiers code\modules code\modules\instruments code\modules\instruments\instrument_data code\modules\instruments\songs code\modules\mapping code\modules\mapping\space_management code\modules\mob code\modules\mob\dead code\modules\mob\dead\new_player code\modules\mob\dead\new_player\sprite_accessories code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species_types interface kosocode kosocode\code kosocode\code\__DEFINES kosocode\code\datums kosocode\code\datums\traits modular_citadel modular_citadel\icons modular_citadel\icons\mob modular_skyrat modular_skyrat\code modular_skyrat\code\modules modular_skyrat\code\modules\mob modular_skyrat\code\modules\mob\living modular_skyrat\code\modules\mob\living\carbon modular_skyrat\code\modules\mob\living\carbon\human sandcode sandcode\code sandcode\code\datums sandcode\code\datums\interactions sandcode\code\datums\interactions\lewd sandcode\icons sandcode\icons\mob sound sound\instruments sound\machines 
+LAST_COMPILE_TIME: 1611008767
+DIR: _maps _maps\map_files _maps\RandomRuins _maps\RandomZLevels _maps\RandomZLevels\away_mission _maps\RandomZLevels\VR code code\__DEFINES\sandcode code\controllers code\controllers\configuration code\controllers\configuration\entries code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species_types 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1528

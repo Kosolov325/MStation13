@@ -308,7 +308,7 @@ MINIMUM_SECBORG_ALERT 3
 
 ## How long the delay is before the Away Mission gate opens. Default is half an hour.
 ## 600 is one minute.
-GATEWAY_DELAY 18000
+#GATEWAY_DELAY 18000
 
 
 ## ACCESS ###
