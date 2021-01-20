@@ -1,34 +1,26 @@
 /datum/species/synth
-	name = "Synthetic" //inherited from the real species, for health scanners and things
-	id = SPECIES_SYNTH
-	say_mod = "beep boops" //inherited from a user's real species
+	name = "Synthetic"
+	id = "synth"
+	say_mod = "states"
 	sexes = 0
-	species_traits = list(NOTRANSSTING,NOGENITALS,NOAROUSAL) //all of these + whatever we inherit from the real species
-	inherent_traits = list(TRAIT_RADIMMUNE,TRAIT_TOXINLOVER,MADE_UNCLONEABLE,TRAIT_VIRUSIMMUNE,TRAIT_NODISMEMBER,TRAIT_NOLIMBDISABLE,TRAIT_NOHUNGER,TRAIT_NOBREATH)
+	species_traits = list(NOTRANSSTING,NOZOMBIE,ROBOTIC_LIMBS,NO_DNA_COPY,CAN_SCAR,HAS_FLESH,HAS_BONE) //all of these + whatever we inherit from the real species. I know you sick fucks want to fuck synths so yes you get genitals. Degenerates.
+	inherent_traits = list(TRAIT_RADIMMUNE)
 	inherent_biotypes = MOB_ROBOTIC|MOB_HUMANOID
-	dangerous_existence = 1
-	blacklisted = 1
+	dangerous_existence = 0 //not dangerous anymore i guess
+	blacklisted = 0 //not blacklisted anymore
+	meat = /obj/item/reagent_containers/food/snacks/meat/slab/synthmeat
+	gib_types = /obj/effect/gibspawner/robot
 	damage_overlay_type = "robotic"
-	limbs_id = "synth"
+	limbs_id = SPECIES_SYNTH
 	icon_limbs = 'kosocode/modular_skyrat/icons/mob/synth_parts.dmi'
-	var/list/initial_species_traits = list(NOTRANSSTING,TRAIT_ROBOTIC_ORGANISM) //for getting these values back for assume_disguise()
-	var/list/initial_inherent_traits = list(TRAIT_VIRUSIMMUNE,TRAIT_NODISMEMBER,MADE_UNCLONEABLE,TRAIT_NOLIMBDISABLE,TRAIT_NOHUNGER,TRAIT_NOBREATH)
+	mutant_bodyparts = list()
+	var/list/initial_species_traits = list(NOTRANSSTING,NOZOMBIE,ROBOTIC_LIMBS,NO_DNA_COPY) //for getting these values back for assume_disguise()
+	var/list/initial_inherent_traits = list(TRAIT_RADIMMUNE) //blah blah i explained above
 	var/disguise_fail_health = 45 //When their health gets to this level their synthflesh partially falls off
+	var/datum/species/fake_species = null //a species to do most of our work for us, unless we're damaged
 	var/isdisguised = FALSE //boolean to help us with disguising proper
 	var/actualhealth = 100 //value we calculate to assume disguise and etc
-	var/datum/species/fake_species = null //a species to do most of our work for us, unless we're damaged
-	species_language_holder = /datum/language_holder/synthetic
-	species_category = SPECIES_CATEGORY_ROBOT
-
-	exotic_blood = /datum/reagent/blood/synthetics
-	exotic_blood_color = BLOOD_COLOR_SYNTHETIC
-	exotic_bloodtype = "SY"
-	//Power cord so they no die hungry
-
-	gib_types = /obj/effect/gibspawner/robot
-
-	//Just robo looking parts.
-	mutant_bodyparts = list()
+	//Same organs as an IPC basically, to share functionality.
 	mutant_heart = /obj/item/organ/heart/ipc
 	mutantlungs = /obj/item/organ/lungs/ipc
 	mutantliver = /obj/item/organ/liver/ipc
@@ -37,8 +29,15 @@
 	mutantears = /obj/item/organ/ears/ipc
 	mutanttongue = /obj/item/organ/tongue/robot/ipc
 	mutant_brain = /obj/item/organ/brain/ipc
-
-	//special cybernetic organ for getting power from apcs
+	//same damage as ipcs
+	coldmod = 0.5
+	burnmod = 1.1
+	heatmod = 1.2
+	brutemod = 1.1
+	siemens_coeff = 1.2
+	//Skyrat change - blood
+	exotic_bloodtype = "SY"
+	//Power cord so they no die hungry
 	mutant_organs = list(/obj/item/organ/cyberimp/arm/power_cord)
 
 /datum/species/synth/military
@@ -50,8 +49,7 @@
 	punchstunthreshold = 14
 	disguise_fail_health = 50
 
-
-/datum/species/synth/proc/assume_disguise(datum/species/S, mob/living/carbon/human/H)
+/datum/species/synth/proc/assume_disguise(datum/species/S, mob/living/carbon/human/H) //rework the proc for it to NOT fuck up with dunmer/other skyrat custom races
 	if(S && !istype(S, type))
 		name = S.name
 		say_mod = S.say_mod
@@ -73,6 +71,7 @@
 		hair_color = S.hair_color
 		mutant_bodyparts = S.mutant_bodyparts.Copy()
 		isdisguised = TRUE
+		fake_species = copify_species(S)
 	else
 		name = initial(name)
 		say_mod = initial(say_mod)
@@ -92,6 +91,7 @@
 		hair_color = ""
 		mutant_bodyparts = list()
 		isdisguised = FALSE
+		fake_species = new /datum/species/human()
 
 	H.regenerate_icons()
 	handle_mutant_bodyparts(H)
@@ -137,7 +137,6 @@
 	isdisguised = FALSE
 	H.regenerate_icons()
 	handle_mutant_bodyparts(H)
-	H.update_body_parts(H)
 
 /datum/species/synth/spec_life(mob/living/carbon/human/H)
 	. = ..()

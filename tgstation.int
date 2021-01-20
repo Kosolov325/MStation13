@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1611095525
-DIR: _maps\map_files _maps\RandomRuins _maps\RandomRuins\LavaRuins _maps\RandomZLevels _maps\RandomZLevels\away_mission _maps\RandomZLevels\VR code code\__DEFINES code\__DEFINES\research code\__DEFINES\sandcode code\__HELPERS code\_globalvars code\_globalvars\lists code\controllers code\controllers\configuration code\datums code\datums\diseases code\game code\game\mecha code\game\objects code\game\objects\items code\game\objects\items\robot code\game\objects\structures code\modules code\modules\antagonists code\modules\antagonists\fugitive code\modules\antagonists\valentines code\modules\cargo code\modules\cargo\exports code\modules\events code\modules\instruments code\modules\instruments\instrument_data code\modules\instruments\instruments code\modules\instruments\songs code\modules\mob code\modules\mob\dead code\modules\mob\dead\new_player code\modules\mob\dead\new_player\sprite_accessories code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species_types code\modules\plumbing code\modules\plumbing\plumbers code\modules\reagents code\modules\reagents\chemistry code\modules\reagents\chemistry\machinery code\modules\research code\modules\research\designs code\modules\surgery code\modules\surgery\bodyparts code\modules\surgery\organs icons icons\mob kosocode kosocode\code kosocode\code\__DEFINES kosocode\code\datums kosocode\code\datums\mood_events kosocode\code\datums\traits kosocode\code\game kosocode\code\modules kosocode\code\modules\mob kosocode\code\modules\mob\living kosocode\code\modules\mob\living\carbon kosocode\code\modules\mob\living\carbon\human kosocode\code\modules\mob\living\carbon\human\species_types kosocode\modular_skyrat kosocode\modular_skyrat\icons kosocode\modular_skyrat\icons\mob modular_citadel modular_citadel\icons modular_citadel\icons\mob modular_citadel\icons\mob\citadel_refs sandcode sandcode\code sandcode\code\game sandcode\code\game\mecha sandcode\code\modules sandcode\code\modules\research sandcode\icons sandcode\icons\mob sound sound\effects sound\instruments sound\machines 
+LAST_COMPILE_TIME: 1611165786
+DIR: _maps\map_files _maps\map_files\BoxStation _maps\RandomRuins _maps\RandomRuins\LavaRuins _maps\RandomZLevels _maps\RandomZLevels\away_mission _maps\RandomZLevels\VR code code\__DEFINES code\__DEFINES\research code\__DEFINES\sandcode code\__HELPERS code\modules code\modules\mob code\modules\mob\dead code\modules\mob\dead\new_player code\modules\mob\dead\new_player\sprite_accessories code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species_types config config\title_screens config\title_screens\images kosocode\modular_skyrat modular_citadel modular_citadel\icons modular_citadel\icons\mob 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
 LAST_COMPILE_VERSION: 513.1528
-WINDOW: kosocode\code\modules\mob\living\carbon\human\species_types\synths.dm
-FILE: kosocode\code\modules\mob\living\carbon\human\species_types\synths.dm
+WINDOW: code\modules\mob\living\carbon\human\species_types\ipc.dm
+FILE: code\modules\mob\living\carbon\human\species_types\ipc.dm
 */
 // END_INTERNALS
