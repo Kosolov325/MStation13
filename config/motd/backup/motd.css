@@ -2,6 +2,14 @@
 body{
 	background-color:#56b045 
 }
+div.git{
+        position:relative;
+        left: 200px;
+        bottom: 0px;
+	margin:auto;
+	padding:auto
+}
+
 div{
 	margin:auto;
 	padding:auto
@@ -41,13 +49,31 @@ h1{
 	font-family:joystixmonospace;
 	font-style:italic
 }
+#git{    
+        font-size:10px;
+        color:#00802b;
+        left: 27px;
+        position:relative;
+	margin:auto;
+	padding:auto;
+        font-family:joystixmonospace;
+}
+#nora{     
+        font-size:9px;
+        color:#00802b;
+        left: 70px;
+        position:relative;
+	margin:auto;
+	padding:auto;
+        font-family:joystixmonospace;
+}
 button:selection{
-	color:red;
+	color:green;
 	background-color:transparent
 }
 button:hover{
-	color:red;
-	border:solid red 2px
+	color:green;
+	border:solid green 2px
 }
 @media (max-width: 1650px){
 	button{

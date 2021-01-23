@@ -4,7 +4,7 @@ body{
 }
 div.git{
         position:relative;
-        left: 352px;
+        left: 0px;
         bottom: 0px;
 	margin:auto;
 	padding:auto
@@ -50,7 +50,7 @@ h1{
 	font-style:italic
 }
 #git{    
-        font-size:10px;
+        font-size:7px;
         color:#00802b;
         left: 27px;
         position:relative;
@@ -59,7 +59,7 @@ h1{
         font-family:joystixmonospace;
 }
 #nora{     
-        font-size:9px;
+        font-size:7px;
         color:#00802b;
         left: 70px;
         position:relative;
