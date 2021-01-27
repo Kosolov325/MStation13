@@ -349,7 +349,7 @@
 		ADD_TRAIT(user, TRAIT_NODEATH, "memento_mori")
 		ADD_TRAIT(user, TRAIT_NOHARDCRIT, "memento_mori")
 		ADD_TRAIT(user, TRAIT_NOCRITDAMAGE, "memento_mori")
-		icon_state = "[initial(icon_state)]_active" //sandcode edit
+		icon_state = "[initial(icon_state)]_active" //modular_sand edit
 		active_owner = user
 
 /obj/item/clothing/neck/necklace/memento_mori/proc/mori()
@@ -1110,7 +1110,7 @@
 		if(1)
 			new /obj/item/mayhem(src)
 		if(2)
-			new /obj/item/gun/ballistic/revolver/doublebarrel/super(src)
+			new /obj/item/book/granter/spell/asura(src)
 		if(3)
 			new /obj/item/guardiancreator(src)
 
@@ -1192,6 +1192,13 @@
 	burst_shot_delay = 0
 	unique_reskin = null
 	sawn_off = TRUE
+
+/obj/item/book/granter/spell/asura
+	spell = /obj/effect/proc_holder/spell/self/asura
+	spellname = "asuras wrath"
+	icon_state = "bookasura"
+	desc = "This crimson novel emanates rage incarnate."
+	remarks = list("Kaio-What?", "It can only be sustained for a short time...", "It's like a massive upsurge of energy...", "Takes a heavy toll on the user's body...?", "Extra arms not included...", "There's stronger levels? Why aren't they in the book...")
 
 //Colossus
 /obj/structure/closet/crate/necropolis/colossus

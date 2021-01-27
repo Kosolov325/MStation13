@@ -137,10 +137,10 @@
 	//Skyrat changes
 	// Append radio icon if from a virtual speaker
 	if (extra_classes.Find("emote"))
-		var/image/r_icon = image('sandcode/icons/UI_Icons/chat/chat_icons.dmi', icon_state = "emote")
+		var/image/r_icon = image('modular_sand/icons/UI_Icons/chat/chat_icons.dmi', icon_state = "emote")
 		text =  "\icon[r_icon]&nbsp;" + text
 	else if (extra_classes.Find("virtual-speaker"))
-		var/image/r_icon = image('sandcode/icons/UI_Icons/chat/chat_icons.dmi', icon_state = "radio")
+		var/image/r_icon = image('modular_sand/icons/UI_Icons/chat/chat_icons.dmi', icon_state = "radio")
 		text =  "\icon[r_icon]&nbsp;" + text
 	//End of skyrat changes
 
@@ -193,7 +193,7 @@
 	enter_subsystem()
 
 	//dogborg check sandstorm thingy thing.
-	var/mob/living/silicon/robot/R = owner
+	var/mob/living/silicon/robot/R = target
 	if(iscyborg(R)) //without this it would check for module on every mob speaking, and you would NOT remove this unless you love runtimes
 		if(R.module.dogborg == TRUE || R.dogborg == TRUE) //BOYS, WHAT THE HELL, GREAT INCONSISTENCY!
 			message.pixel_x = 16
@@ -235,7 +235,10 @@
 	if (originalSpeaker != src && speaker == src)
 		return
 	//Skyrat changes
-	if(message_language)
+	if(!message_language && (lang_treat(speaker, message_language, raw_message, spans, null, TRUE) == "makes a strange sound.") && !("emote" in spans))
+		var/nospeak = "makes a strange sound."
+		new /datum/chatmessage(nospeak, speaker, src, list("emote", "italics"))
+	else if(message_language)
 		new /datum/chatmessage(lang_treat(speaker, message_language, raw_message, spans, null, TRUE), speaker, src, spans)
 	else
 		new /datum/chatmessage(raw_message, speaker, src, spans)

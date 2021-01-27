@@ -39,6 +39,7 @@
 	var/list/logging = list()
 	var/atom/machine = null
 
+	var/next_move = null // Nostra change
 	var/create_area_cooldown
 	/// Whether or not the mob is currently being transformed into another mob or into another state of being. This will prevent it from moving or doing realistically anything.
 	/// Don't you DARE use this for a cheap way to ensure someone is stunned in your code.
@@ -177,3 +178,6 @@
 	var/list/ability_actions
 	/// ability = list(data). see __DEFINES/mobs/innate_abilities.dm
 	var/list/ability_properties
+
+	///Override for sound_environments. If this is set the user will always hear a specific type of reverb (Instead of the area defined reverb)
+	var/sound_environment_override = SOUND_ENVIRONMENT_NONE

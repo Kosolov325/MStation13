@@ -1,11 +1,11 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1611187536
-DIR: _maps\map_files _maps\map_files\BoxStation _maps\RandomRuins _maps\RandomRuins\LavaRuins _maps\RandomZLevels _maps\RandomZLevels\away_mission _maps\RandomZLevels\VR code code\__DEFINES code\__DEFINES\research code\__DEFINES\sandcode code\__HELPERS code\_globalvars code\datums code\modules code\modules\mapping code\modules\mapping\space_management code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species_types code\modules\plumbing code\modules\plumbing\plumbers code\modules\reagents code\modules\reagents\chemistry code\modules\reagents\chemistry\machinery code\modules\surgery kosocode kosocode\code kosocode\code\__DEFINES kosocode\code\datums kosocode\code\modules kosocode\code\modules\mob kosocode\code\modules\mob\living kosocode\code\modules\mob\living\carbon kosocode\code\modules\mob\living\carbon\human kosocode\code\modules\mob\living\carbon\human\species_types sandcode sandcode\code sandcode\code\__DEFINES sandcode\code\datums 
+LAST_COMPILE_TIME: 1611763154
+DIR: _maps\map_files _maps\map_files\BoxStation _maps\RandomRuins _maps\RandomRuins\LavaRuins _maps\RandomRuins\SpaceRuins _maps\RandomZLevels _maps\RandomZLevels\away_mission _maps\RandomZLevels\VR code code\__DEFINES code\__DEFINES\_flags code\__DEFINES\dcs code\_onclick code\controllers code\controllers\subsystem code\datums code\game code\game\objects code\modules code\modules\mob code\modules\mob\living code\modules\mob\living\carbon code\modules\mob\living\carbon\human code\modules\mob\living\carbon\human\species_types code\modules\projectiles code\modules\projectiles\guns code\modules\projectiles\guns\energy code\modules\projectiles\guns\misc kosocode kosocode\code kosocode\code\modules kosocode\code\modules\mob kosocode\code\modules\mob\living kosocode\code\modules\mob\living\carbon kosocode\code\modules\mob\living\carbon\human kosocode\code\modules\mob\living\carbon\human\species_types kosocode\code\modules\projectiles kosocode\modules kosocode\modules\surgery kosocode\modules\surgery\bodyparts modular_citadel modular_citadel\code modular_citadel\code\modules modular_citadel\code\modules\projectiles modular_citadel\code\modules\projectiles\guns modular_citadel\code\modules\projectiles\guns\energy 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 513.1528
+LAST_COMPILE_VERSION: 513.1538
 WINDOW: kosocode\code\modules\mob\living\carbon\human\species_types\synths.dm
 FILE: kosocode\code\modules\mob\living\carbon\human\species_types\synths.dm
 */

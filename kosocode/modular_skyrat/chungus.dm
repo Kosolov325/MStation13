@@ -29,12 +29,12 @@
 	chungus_music = null
 	var/icon_state_cool = "cooler_xom"
 	var/static/list/funny = list(
-		'modular_skyrat/sound/cultiste/cultiste_rire_1.ogg',
-		'modular_skyrat/sound/cultiste/cultiste_rire_2.ogg',
-		'modular_skyrat/sound/cultiste/cultiste_rire_3.ogg',
-		'modular_skyrat/sound/cultiste/cultiste_rire_4.ogg',
-		'modular_skyrat/sound/cultiste/cultiste_rire_5.ogg',
-		'modular_skyrat/sound/cultiste/cultiste_rire_6.ogg',
+		'kosocode/modular_skyrat/sound/cultiste/cultiste_rire_1.ogg',
+		'kosocode/modular_skyrat/sound/cultiste/cultiste_rire_2.ogg',
+		'kosocode/modular_skyrat/sound/cultiste/cultiste_rire_3.ogg',
+		'kosocode/modular_skyrat/sound/cultiste/cultiste_rire_4.ogg',
+		'kosocode/modular_skyrat/sound/cultiste/cultiste_rire_5.ogg',
+		'kosocode/modular_skyrat/sound/cultiste/cultiste_rire_6.ogg',
 	)
 	var/list/possible_messages = list()
 	speak_chance = 3
@@ -58,7 +58,6 @@
 		//xom just says random shit someone has spouted in the round with a chance
 		//to say a cringe word at the end (or nigger)
 		var/list/cringe = list("nigger")
-		cringe |= GLOB.in_character_filter
 		var/message = "Penis guacamole!"
 		if(!length(possible_messages) || prob(speak_chance))
 			for(var/mob/living/L in GLOB.mob_living_list)
@@ -74,8 +73,6 @@
 			message = pick(possible_messages)
 		message = copytext(message, 1, findtext(message, "FORCED") || length(message))
 		message = replacetext(message, "\"", "")
-		if(config.punctuation_filter && !findtext(message, config.punctuation_filter, length(message)) && !(config.bingus_filter && findtext(message, config.bingus_filter, 1, 2)))
-			message += "."
 		say("[message] [capitalize(pick(cringe))]!", forced = TRUE)
 		//sunglasses
 		icon_state = icon_state_cool

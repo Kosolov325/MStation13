@@ -26,7 +26,7 @@
 	display_name = "Anomaly Research"
 	description = "Unlock the potential of the mysterious anomalies that appear on station."
 	prereq_ids = list("adv_engi", "practical_bluespace")
-	design_ids = list("reactive_armour", "anomaly_neutralizer")
+	design_ids = list("reactive_armour", "anomaly_neutralizer", "explosive_compressor")
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 3500)
 
 /datum/techweb_node/high_efficiency
@@ -36,6 +36,14 @@
 	prereq_ids = list("engineering", "datatheory")
 	design_ids = list("pico_mani", "super_matter_bin")
 	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 5000)
+
+/datum/techweb_node/adv_rcd_upgrade
+	id = "adv_rcd_upgrade"
+	display_name = "Advanced RCD designs upgrade"
+	description = "Unlocks new RCD designs."
+	prereq_ids = list("adv_engi", "practical_bluespace")
+	design_ids = list("rcd_upgrade_silo_link", "rcd_upgrade_furnishing")
+	research_costs = list(TECHWEB_POINT_TYPE_GENERIC = 25000)
 
 /datum/techweb_node/adv_power
 	id = "adv_power"

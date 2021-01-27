@@ -4,7 +4,7 @@
 	say_mod = "states"
 	sexes = 0
 	species_traits = list(NOTRANSSTING,NOZOMBIE,ROBOTIC_LIMBS,NO_DNA_COPY,CAN_SCAR,HAS_FLESH,HAS_BONE) //all of these + whatever we inherit from the real species. I know you sick fucks want to fuck synths so yes you get genitals. Degenerates.
-	inherent_traits = list(TRAIT_RADIMMUNE,TRAIT_NOCLONE,TRAIT_TOXINLOVER)
+	inherent_traits = list(TRAIT_RADIMMUNE,TRAIT_NOCLONE,TRAIT_TOXINLOVER,TRAIT_NOBREATH,TRAIT_RESISTCOLD,TRAIT_RESISTHIGHPRESSURE,TRAIT_RESISTLOWPRESSURE)
 	inherent_biotypes = MOB_ROBOTIC|MOB_HUMANOID
 	dangerous_existence = 0 //not dangerous anymore i guess
 	blacklisted = 0 //not blacklisted anymore
@@ -15,7 +15,7 @@
 	icon_limbs = 'kosocode/modular_skyrat/icons/mob/synth_parts.dmi'
 	mutant_bodyparts = list()
 	var/list/initial_species_traits = list(NOTRANSSTING,NOZOMBIE,ROBOTIC_LIMBS,NO_DNA_COPY) //for getting these values back for assume_disguise()
-	var/list/initial_inherent_traits = list(TRAIT_RADIMMUNE,TRAIT_NOCLONE,TRAIT_TOXINLOVER) //blah blah i explained above
+	var/list/initial_inherent_traits = list(TRAIT_RADIMMUNE,TRAIT_NOCLONE,TRAIT_TOXINLOVER,TRAIT_NOBREATH,TRAIT_RESISTCOLD,TRAIT_RESISTHIGHPRESSURE,TRAIT_RESISTLOWPRESSURE) //blah blah i explained above
 	var/disguise_fail_health = 45 //When their health gets to this level their synthflesh partially falls off
 	var/datum/species/fake_species = null //a species to do most of our work for us, unless we're damaged
 	var/isdisguised = FALSE //boolean to help us with disguising proper
@@ -128,15 +128,17 @@
 	nojumpsuit = initial(nojumpsuit)
 	no_equip = list()
 	meat = initial(meat)
-//	limbs_id = initial(limbs_id)
+	limbs_id = initial(limbs_id)
 	use_skintones = initial(use_skintones)
 	sexes = initial(sexes)
 	fixed_mut_color = ""
 	hair_color = ""
 	mutant_bodyparts = list()
 	isdisguised = FALSE
-//	H.regenerate_icons()
-//	handle_mutant_bodyparts(H)
+
+	H.regenerate_icons()
+	handle_mutant_bodyparts(H)
+	H.update_body_parts()
 
 /datum/species/synth/spec_life(mob/living/carbon/human/H)
 	. = ..()

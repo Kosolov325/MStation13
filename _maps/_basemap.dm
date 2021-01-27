@@ -1,6 +1,6 @@
 //#define LOWMEMORYMODE //uncomment this to load centcom and runtime station and thats it.
 
-#include "map_files\generic\CentCom.dmm"
+#include "map_files\generic\CentCom_nostration.dmm"
 
 #ifndef LOWMEMORYMODE
 	#ifdef ALL_MAPS
@@ -13,7 +13,7 @@
 		#include "map_files\BoxStation\BoxStation_nostration.dmm"
 		#include "map_files\LambdaStation\lambda.dmm"
 
-		#ifdef TRAVISBUILDING
+		#ifdef CIBUILDING
 			#include "templates.dm"
 		#endif
 	#endif

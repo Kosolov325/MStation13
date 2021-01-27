@@ -139,10 +139,11 @@ GLOBAL_LIST_INIT(hallucination_list, list(
 	Show()
 
 /obj/effect/hallucination/simple/Moved(atom/OldLoc, Dir)
+	. = ..()
 	Show()
 
 /obj/effect/hallucination/simple/Destroy()
-	if(target && target.client)
+	if(target?.client)
 		target.client.images.Remove(current_image)
 	active = FALSE
 	return ..()
@@ -698,7 +699,8 @@ GLOBAL_LIST_INIT(hallucination_list, list(
 		if(target.client)
 			target.client.images |= speech_overlay
 			sleep(30)
-			target.client.images.Remove(speech_overlay)
+			if (target.client)
+				target.client.images.Remove(speech_overlay)
 		var/spans = list(person.speech_span)
 		if (target.client?.prefs.chat_on_map)
 			target.create_chat_message(person, understood_language, chosen, spans, 0)
@@ -1093,6 +1095,7 @@ GLOBAL_LIST_INIT(hallucination_list, list(
 		target.client.images += image
 
 /obj/effect/hallucination/danger/lava/Crossed(atom/movable/AM)
+	. = ..()
 	if(AM == target)
 		target.adjustStaminaLoss(20)
 		new /datum/hallucination/fire(target)
