@@ -464,6 +464,7 @@ GLOBAL_LIST_EMPTY(PDAs)
 	user << browse(dat, "window=pda;size=400x450;border=1;can_resize=1;can_minimize=0")
 	onclose(user, "pda", src)
 
+/*
 /obj/item/pda/Topic(href, href_list)
 	..()
 	var/mob/living/U = usr
@@ -729,6 +730,7 @@ GLOBAL_LIST_EMPTY(PDAs)
 		U.unset_machine()
 		U << browse(null, "window=pda")
 	return
+*/
 
 /obj/item/pda/proc/remove_id(mob/user)
 	if(hasSiliconAccessInArea(user) || !user.canUseTopic(src, BE_CLOSE, FALSE, NO_TK))
