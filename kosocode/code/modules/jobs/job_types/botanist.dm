@@ -9,6 +9,6 @@
 	new /obj/item/clothing/suit/beekeeper_suit(src)
 	new /obj/item/melee/flyswatter(src)
 
-/datum/job/hydro/after_spawn(mob/user)
+/datum/job/hydro/after_spawn(mob/user, latejoin = FALSE)
 	var/atom/A = new /obj/structure/closet/crate/hydroponics/job(get_turf(user))
 	return A
