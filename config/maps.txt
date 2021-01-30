@@ -40,9 +40,6 @@ map snaxi
 	minplayers 25
 endmap
 
-map runtimestation
-endmap
-
 map multiz_debug
 endmap
 

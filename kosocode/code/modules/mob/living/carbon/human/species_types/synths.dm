@@ -95,7 +95,7 @@
 
 	H.regenerate_icons()
 	handle_mutant_bodyparts(H)
-	H.update_body_parts(force = TRUE)
+	H.update_body_parts()
 
 /datum/species/synth/on_species_gain(mob/living/carbon/human/H, datum/species/old_species)
 	. = ..()
