@@ -144,7 +144,7 @@
 	. = ..()
 	actualhealth = (100 - (H.getBruteLoss() + H.getFireLoss() + H.getOxyLoss() + H.getToxLoss() + H.getCloneLoss()))
 	if((actualhealth < disguise_fail_health) && isdisguised)
-		unassume_disguise(H)
+		assume_disguise(fake_species, H)
 		H.visible_message("<span class='danger'>[H]'s disguise falls apart!</span>", "<span class='userdanger'>Your disguise falls apart!</span>")
 	else if((actualhealth >= disguise_fail_health) && !isdisguised && (H.stat != DEAD))
 		assume_disguise(fake_species, H)
