@@ -1,12 +1,12 @@
 // BEGIN_INTERNALS
 /*
 MAP_ZOOM: 1.000
-LAST_COMPILE_TIME: 1612155035
-DIR: _maps _maps\map_files _maps\map_files\BoxStation _maps\RandomRuins\AnywhereRuins _maps\RandomRuins\SpaceRuins _maps\RandomRuins\SpaceRuinsStation _maps\RandomRuins\StationRuins _maps\RandomRuins\StationRuins\Box _maps\RandomRuins\StationRuins\Box\Engine code code\modules code\modules\research 
+LAST_COMPILE_TIME: 1614872122
+DIR: _maps\map_files _maps\map_files\BoxStation _maps\map_files\LambdaStation _maps\RandomRuins\AnywhereRuins _maps\RandomRuins\SpaceRuins _maps\RandomRuins\SpaceRuinsStation _maps\RandomRuins\StationRuins _maps\RandomRuins\StationRuins\Box icons icons\maconha icons\maconha\misc 
 AUTO_FILE_DIR: OFF
 MAP_ICON_TYPE: 0
-LAST_COMPILE_VERSION: 513.1538
-WINDOW: code\modules\research\server.dm
-FILE: code\modules\research\server.dm
+LAST_COMPILE_VERSION: 513.1528
+WINDOW: icons\maconha\misc\Seeker_Mk1.dmi;icons\maconha\misc\foods.dmi
+FILE: icons\maconha\misc\foods.dmi
 */
 // END_INTERNALS

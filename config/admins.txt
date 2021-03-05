@@ -13,3 +13,4 @@ maconha0420 = Host
 zallyan = Game Master
 iunknow = Game Admin
 kosolov325 = Coder
+fegelein17 = Coder
